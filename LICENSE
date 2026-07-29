@@ -1,0 +1,90 @@
+# Lizenz
+
+Dieses Repository enthält zwei Arten von Inhalten mit unterschiedlichen Lizenzen.
+
+---
+
+## 1. Dokumente und Inhalte — CC BY 4.0
+
+Für alle inhaltlichen Bestandteile gilt die
+**Creative-Commons-Lizenz Namensnennung 4.0 International (CC BY 4.0)**.
+
+Erfasst sind insbesondere:
+
+- `quelltext/01_Beschreibung.md`, `quelltext/02_Checklisten.md`
+- die daraus erzeugten Dateien unter `docs/`
+- die Excel-Arbeitshilfe unter `tools/`
+- `sources/`, `review/`, `README.md`, `DISCLAIMER.md`, `CHANGELOG.md`
+
+**Sie dürfen:**
+
+- die Inhalte teilen — in jedem Format und Medium vervielfältigen und weiterverbreiten;
+- die Inhalte bearbeiten — remixen, verändern und darauf aufbauen, auch kommerziell.
+
+**Unter folgender Bedingung:**
+
+- **Namensnennung.** Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur
+  Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+
+Empfohlene Angabe bei unveränderter Weitergabe:
+
+> „EU AI Act verständlich“ von Thomas Lauer, Rechtsstand 29.07.2026, Fassung 1.1 —
+> lizenziert unter CC BY 4.0 · https://github.com/thomas-lauer/eu-ai-act
+
+**Zusätzlich dringend empfohlen** (keine Lizenzbedingung, sondern eine Frage der Sorgfalt):
+Geben Sie bei jeder Weitergabe den **Rechtsstand** an und kennzeichnen Sie **vorgenommene
+Änderungen** deutlich. Diese Dokumente veralten mit jeder Änderung des Unionsrechts. Eine
+veränderte Fassung ohne Kennzeichnung kann Empfänger in die Irre führen.
+
+Lizenztext: https://creativecommons.org/licenses/by/4.0/deed.de
+Rechtsverbindliche Fassung: https://creativecommons.org/licenses/by/4.0/legalcode.de
+
+---
+
+## 2. Skripte und Werkzeuge — MIT
+
+Für alle ausführbaren Bestandteile unter `scripts/` und `.github/` gilt die **MIT-Lizenz**.
+
+```
+MIT License
+
+Copyright (c) 2026 Thomas Lauer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 3. Nicht von dieser Lizenz erfasst
+
+**Amtliche Rechtstexte.** Zitate aus der Verordnung (EU) 2024/1689, der Verordnung (EU) 2026/1744
+und anderen Rechtsakten der Union sind amtliche Werke. Für die Weiterverwendung von Dokumenten der
+Europäischen Union gilt der Beschluss 2011/833/EU; die Wiedergabe ist unter Angabe der Quelle
+gestattet. Die amtliche Fassung bleibt maßgeblich — verbindlich ist allein der Text im Amtsblatt.
+
+**Marken und Namen.** Die Nennung von Produkt- oder Unternehmensnamen erfolgt zu Referenzzwecken
+und begründet keine Rechte an diesen Zeichen.
+
+---
+
+## 4. Verhältnis zum Haftungsausschluss
+
+Die Lizenz regelt, **was Sie mit den Inhalten tun dürfen**. Sie sagt nichts darüber aus, ob die
+Inhalte für einen bestimmten Zweck geeignet sind. Es gilt zusätzlich der Haftungsausschluss in
+[`DISCLAIMER.md`](DISCLAIMER.md) — insbesondere: **Diese Inhalte sind keine Rechtsberatung.**

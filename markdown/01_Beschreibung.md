@@ -1,9 +1,9 @@
 # Der EU AI Act — verständlich erklärt
 
-## Die KI-Verordnung der Europäischen Union in einfacher Sprache
+## Die KI-Verordnung der Europäischen Union — verständlich und praxisnah erklärt
 
-**Rechtsstand: 29. Juli 2026**
-Berücksichtigt die Verordnung (EU) 2024/1689 (KI-Verordnung) in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
+**Rechtsstand: 29.07.2026 · Fassung 1.1**
+Berücksichtigt werden die Verordnung (EU) 2024/1689 (KI-Verordnung) in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
 
 ---
 
@@ -11,11 +11,13 @@ Berücksichtigt die Verordnung (EU) 2024/1689 (KI-Verordnung) in der Fassung der
 
 Dieses Dokument hat zwei Ebenen.
 
-Der **Haupttext** ist in einfacher Sprache geschrieben. Sie brauchen keine juristische Vorbildung, um ihn zu verstehen.
+Der **Haupttext** ist bewusst einfach geschrieben. Sie brauchen keine juristische Vorbildung, um ihn zu verstehen.
 
 Die **Fundstellen** stehen jeweils direkt darunter, eingerückt und mit dem Wort "Fundstelle" gekennzeichnet. Dort finden Sie den genauen Artikel im Gesetzestext. Wenn Sie nur wissen wollen, was zu tun ist, überspringen Sie diese Zeilen. Wenn Sie prüfen oder zitieren wollen, finden Sie dort den Beleg.
 
-Die Abkürzung **"n. F."** bedeutet "neue Fassung" und markiert Vorschriften, die durch den Digital Omnibus im Juli 2026 geändert wurden.
+Die Abkürzung **"n. F."** bedeutet "neue Fassung" und markiert Vorschriften, die durch den Digital Omnibus im Juli 2026 geändert wurden. **"UAbs."** steht für "Unterabsatz", **"a. F."** für "alte Fassung", **"ErwG"** für "Erwägungsgrund".
+
+**Zum Anspruch dieses Dokuments:** Der Text ist verständlich und praxisnah geschrieben. Er ist bewusst einfacher als der Gesetzestext, erfüllt aber nicht durchgehend die formalen Kriterien der "Einfachen Sprache" im engeren Sinn — einzelne Sätze bleiben lang, weil die Rechtslage es verlangt. Wo eine Vereinfachung den Inhalt verfälschen würde, hat die Genauigkeit Vorrang.
 
 ---
 
@@ -23,7 +25,9 @@ Die Abkürzung **"n. F."** bedeutet "neue Fassung" und markiert Vorschriften, di
 
 Dieses Dokument ist eine allgemeine Information. Es ersetzt keine Rechtsberatung im Einzelfall. Ob und wie die KI-Verordnung auf ein bestimmtes System in einem bestimmten Unternehmen anzuwenden ist, hängt von Umständen ab, die hier nicht bekannt sind. Für rechtsverbindliche Auskünfte wenden Sie sich bitte an eine Rechtsanwältin oder einen Rechtsanwalt.
 
-Der Rechtsstand ist der 29. Juli 2026. Die KI-Verordnung wurde zuletzt drei Tage vor diesem Datum geändert. Weitere Änderungen sind möglich. Prüfen Sie vor einer Anwendung, ob es einen neueren Stand gibt.
+Der Rechtsstand ist der 29.07.2026. Die letzte Änderung der KI-Verordnung wurde am 24.07.2026 im Amtsblatt veröffentlicht und trat am 27.07.2026 in Kraft — zwei Tage vor diesem Rechtsstand. Weitere Änderungen sind möglich. Prüfen Sie vor einer Anwendung, ob es einen neueren Stand gibt.
+
+Wo dieses Dokument eine Frist oder eine Rechtsfolge angibt, die auf einer Auslegung beruht, ist das ausdrücklich gekennzeichnet. Solche Angaben sind **Planungsannahmen**, keine gesicherte Rechtslage.
 
 ---
 
@@ -32,7 +36,7 @@ Der Rechtsstand ist der 29. Juli 2026. Die KI-Verordnung wurde zuletzt drei Tage
 1. Der EU AI Act ist ein europäisches Gesetz, das den Umgang mit Künstlicher Intelligenz regelt.
 2. Er heißt offiziell "KI-Verordnung" und gilt seit dem 1. August 2024 — allerdings gestaffelt, nicht alles auf einmal.
 3. Als Verordnung gilt er unmittelbar in allen EU-Mitgliedstaaten; er muss nicht erst in nationales Recht umgesetzt werden.
-4. Er teilt KI-Systeme nach ihrem Risiko ein: verboten, hochriskant, transparenzpflichtig oder weitgehend frei.
+4. Er ordnet KI-Systeme nach ihrem Risiko: verboten, hochriskant, transparenzpflichtig oder weitgehend frei — als Prüfreihenfolge, nicht als vier sich ausschließende Schubladen.
 5. Je höher das Risiko, desto mehr Pflichten.
 6. Er unterscheidet außerdem nach Rollen: Wer KI **anbietet**, hat andere Pflichten als wer KI **einsetzt**.
 7. Für die meisten Unternehmen ist die zweite Rolle die relevante — sie sind Betreiber, nicht Anbieter.
@@ -52,15 +56,15 @@ Die Verordnung gilt nicht nur für Unternehmen mit Sitz in der EU. Sie gilt für
 
 - **Anbieter**, die KI-Systeme in der EU in Verkehr bringen oder in Betrieb nehmen — egal, wo sie sitzen.
 - **Betreiber** mit Sitz in der EU oder die sich in der EU befinden.
-- **Anbieter und Betreiber aus Drittstaaten**, wenn das **Ergebnis** des KI-Systems in der EU verwendet wird.
+- **Anbieter und Betreiber aus Drittstaaten**, wenn die vom KI-System hervorgebrachte **Ausgabe** in der Union verwendet wird.
 - **Einführer und Händler** von KI-Systemen.
 - **Produkthersteller**, die KI zusammen mit ihrem Produkt unter eigenem Namen anbieten.
 - **Bevollmächtigte** von Anbietern aus Drittstaaten.
 - **Betroffene Personen**, die sich in der EU befinden.
 
-Der dritte Punkt ist der weitreichendste. Ein Unternehmen in den USA, das ein KI-System betreibt, dessen Ergebnisse ein Kunde in Deutschland nutzt, fällt unter die Verordnung — auch ohne Niederlassung in Europa.
+Der dritte Punkt ist der weitreichendste. Ein Unternehmen in den USA, das ein KI-System betreibt, dessen Ausgaben ein Kunde in Deutschland nutzt, kann dadurch unter die Verordnung fallen — auch ohne Niederlassung in Europa. Ob das im Einzelfall zutrifft, hängt davon ab, was mit der Ausgabe tatsächlich geschieht, wie die Vertragsbeziehungen gestaltet sind und wo die Nutzung stattfindet.
 
-> **Fundstelle:** Art. 2 Abs. 1 lit. a–g KI-VO.
+> **Fundstelle:** Art. 2 Abs. 1 lit. a–g KI-VO. Der amtliche deutsche Wortlaut der lit. c: "Anbieter und Betreiber von KI-Systemen, die ihren Sitz in einem Drittland haben oder sich in einem Drittland befinden, wenn die vom KI-System hervorgebrachte Ausgabe in der Union verwendet wird".
 
 ## 2.2 Was ist überhaupt ein "KI-System"?
 
@@ -68,7 +72,7 @@ Die Verordnung definiert den Begriff bewusst weit:
 
 > "ein maschinengestütztes System, das für einen in unterschiedlichem Grade autonomen Betrieb ausgelegt ist und das nach seiner Betriebsaufnahme anpassungsfähig sein kann und das aus den erhaltenen Eingaben für explizite oder implizite Ziele ableitet, wie Ausgaben wie etwa Vorhersagen, Inhalte, Empfehlungen oder Entscheidungen erstellt werden, die physische oder virtuelle Umgebungen beeinflussen können"
 
-In einfacher Sprache: Ein System, das aus Eingaben selbstständig Ergebnisse ableitet — und zwar nicht nur nach starr programmierten Regeln, sondern mit einem gewissen Grad an Eigenständigkeit.
+Einfacher gesagt: Ein System, das aus Eingaben selbstständig Ergebnisse ableitet — und zwar nicht nur nach starr programmierten Regeln, sondern mit einem gewissen Grad an Eigenständigkeit.
 
 Klassische Software mit fest programmierter Wenn-Dann-Logik fällt in der Regel nicht darunter. Ein Machine-Learning-Modell, ein Sprachmodell, ein Empfehlungssystem in der Regel schon.
 
@@ -94,15 +98,17 @@ Es gibt mehrere Ausnahmen. Die für Unternehmen wichtigsten:
 
 > **Fundstelle:** Art. 2 Abs. 10 KI-VO. Ebenso bereits in der Definition des Betreibers, Art. 3 Nr. 4 KI-VO.
 
-**Open Source — aber mit engen Grenzen.** KI-Systeme unter freien und quelloffenen Lizenzen sind ausgenommen. Diese Ausnahme entfällt jedoch, sobald das System als Hochrisiko-System in Verkehr gebracht wird oder unter Art. 5 (Verbote) oder Art. 50 (Transparenz) fällt.
+**Open Source — aber mit engen Grenzen.** Die Verordnung gilt nicht für KI-Systeme, die unter freien und quelloffenen Lizenzen bereitgestellt werden. Diese Ausnahme entfällt jedoch, sobald das System als Hochrisiko-System in Verkehr gebracht oder in Betrieb genommen wird oder unter Art. 5 (Verbote) oder Art. 50 (Transparenz) fällt. Das ist keine pauschale Freistellung: Sie betrifft nur die KI-Verordnung. Datenschutzrecht, Produktsicherheitsrecht, Urheberrecht und Vertragsrecht bleiben unberührt. Für KI-Modelle mit allgemeinem Verwendungszweck gilt eine eigene, engere Regel.
 
-> **Fundstelle:** Art. 2 Abs. 12 KI-VO. Für KI-Modelle mit allgemeinem Verwendungszweck gilt eine eigene, engere Open-Source-Regel: Art. 53 Abs. 2 und Art. 54 Abs. 6 KI-VO.
+> **Fundstelle:** Art. 2 Abs. 12 KI-VO: "Diese Verordnung gilt nicht für KI-Systeme, die unter freien und quelloffenen Lizenzen bereitgestellt werden, es sei denn, sie werden als Hochrisiko-KI-Systeme oder als ein KI-System, das unter Artikel 5 oder 50 fällt, in Verkehr gebracht oder in Betrieb genommen." Für GPAI-Modelle: Art. 53 Abs. 2 und Art. 54 Abs. 6 KI-VO. Ausnahme für Dritte, die Instrumente, Dienste oder Komponenten unter freier Lizenz bereitstellen: Art. 25 Abs. 4 KI-VO n. F.
 
 ---
 
-# 3. Die vier Risikoklassen
+# 3. Die Risikostufen — ein Prüfmodell in vier Schritten
 
-Die Verordnung sortiert KI-Systeme nach Risiko. Je höher das Risiko, desto strenger die Regeln.
+Die Verordnung ordnet KI-Systeme nach Risiko. Je höher das Risiko, desto strenger die Regeln.
+
+> **Bitte beachten:** Die folgenden vier Stufen sind ein **vereinfachtes Arbeitsmodell für die erste Orientierung**, keine abschließende gesetzliche Klassifikation. Die Stufen schließen sich nicht gegenseitig aus. Ein Hochrisiko-System kann zusätzlich transparenzpflichtig sein. KI-Modelle mit allgemeinem Verwendungszweck (GPAI) bilden einen eigenen Regelungsbereich neben diesen Stufen (Kapitel 8). Prüfen Sie deshalb **alle** Stufen, nicht nur die erste, die passt.
 
 ## Stufe 1: Verboten
 
@@ -140,7 +146,9 @@ Diese Pflichten gelten ab dem **2. August 2026** — unabhängig davon, ob das S
 
 ## Stufe 4: Geringes Risiko
 
-Alles Übrige. Hier gibt es keine spezifischen Pflichten aus der KI-Verordnung — mit **einer** Ausnahme: Die Pflicht zur KI-Kompetenz nach Art. 4 gilt für **alle** KI-Systeme, unabhängig von der Risikoklasse.
+Alles Übrige. Hier greifen keine der besonderen Pflichten aus den Stufen 1 bis 3 — die Pflicht zur KI-Kompetenz nach Art. 4 gilt jedoch für **alle** KI-Systeme, unabhängig von der Stufe.
+
+**Wichtig:** "Geringes Risiko" ist keine rechtliche Freigabe. Auch außerhalb der besonderen Pflichten der KI-Verordnung können Datenschutzrecht, Arbeitsrecht und Mitbestimmung, Urheberrecht, Produktsicherheitsrecht, Wettbewerbsrecht und das Vertragsrecht einschlägig sein. Die Einstufung sagt nur, dass die **hier geprüften** Kategorien der KI-Verordnung nicht greifen.
 
 **Beispiele:** Spam-Filter, KI in Computerspielen, Rechtschreibkorrektur.
 
@@ -335,12 +343,16 @@ Ein KI-System ist hochriskant, wenn **beide** Bedingungen erfüllt sind:
 
 ### Der wichtigste Unterschied: Abschnitt A oder Abschnitt B?
 
-Diese Unterscheidung entscheidet darüber, **ob die Pflichten der KI-Verordnung überhaupt gelten**.
+Diese Unterscheidung entscheidet darüber, **welche Pflichten der KI-Verordnung überhaupt gelten**. Bestimmen Sie deshalb immer zuerst, unter welchen konkreten Rechtsakt aus Anhang I Ihr Produkt fällt — und in welchem Abschnitt dieser Rechtsakt gelistet ist.
 
-- Fällt das Produkt unter **Anhang I Abschnitt A** (u. a. Spielzeug, Aufzüge, ATEX-Geräte, Funkanlagen, Druckgeräte, Seilbahnen, persönliche Schutzausrüstung, Gasverbrennungsgeräte, Medizinprodukte, In-vitro-Diagnostika), gilt das volle Kapitel III der KI-Verordnung — ab dem 2. August 2028.
-- Fällt das Produkt unter **Anhang I Abschnitt B** (Zivilluftfahrt, Kraftfahrzeuge, Schiffsausrüstung, Eisenbahn und **seit Juli 2026 auch Maschinen**), gelten **nur Art. 6 Abs. 1, Art. 60a und Art. 102 bis 112** der KI-Verordnung. Die Anforderungen an solche Systeme werden stattdessen über das jeweilige Sektorrecht umgesetzt — bei Maschinen über Anhang III der Maschinenverordnung (EU) 2023/1230, den die Kommission per delegiertem Rechtsakt mit Geltung ab dem 2. August 2028 zu füllen hat.
+- Fällt das Produkt unter **Anhang I Abschnitt A** (u. a. Spielzeug, Aufzüge, ATEX-Geräte, Funkanlagen, Druckgeräte, Seilbahnen, persönliche Schutzausrüstung, Gasverbrennungsgeräte, Medizinprodukte, In-vitro-Diagnostika), gilt das volle Kapitel III der KI-Verordnung — ab dem 02.08.2028. Vorbehalt: Die Kommission kann nach Art. 2 Abs. 13 KI-VO n. F. bis zum 02.08.2027 delegierte Rechtsakte erlassen, die die Anwendung der Art. 9–15 und 17–25 für Anhang-I-Systeme beschränken, wenn das Sektorrecht gleichwertigen Schutz bietet.
+- Fällt das Produkt unter **Anhang I Abschnitt B** (Zivilluftfahrt, Kraftfahrzeuge, Schiffsausrüstung, Eisenbahn und **seit Juli 2026 auch Maschinen**), gelten von der gesamten KI-Verordnung **nur Art. 6 Abs. 1, Art. 60a und Art. 102 bis 112**. Art. 57, 58 und 59 gelten zusätzlich, soweit die Anforderungen an Hochrisiko-KI-Systeme im jeweiligen Sektorrecht übernommen wurden.
 
-Für den Maschinen- und Anlagenbau ist das die zentrale Änderung des Digital Omnibus: Die KI-Verordnung selbst legt diesen Unternehmen keine Hochrisiko-Pflichten mehr auf; maßgeblich wird das Maschinenrecht.
+> **Häufige Vereinfachung, die zu weit geht:** Man liest oft, für Abschnitt B "gelte Kapitel III nicht". Das ist zu grob. **Art. 6 Abs. 1 gilt ausdrücklich weiter** — er steht in Kapitel III Abschnitt 1 und ist die Einstufungsnorm selbst. Ein System nach Anhang I Abschnitt B ist also weiterhin ein Hochrisiko-KI-System im Sinne der Verordnung; es unterliegt nur nicht den Anforderungs- und Pflichtenkapiteln. Ebenfalls nicht anwendbar sind Art. 50 (Transparenz), Art. 72 und 73 (Beobachtung, Vorfallmeldung) sowie Art. 99 (Sanktionen) — sie stehen nicht in der abschließenden Aufzählung des Art. 2 Abs. 2.
+
+Die Anforderungen an solche Systeme werden stattdessen über das jeweilige Sektorrecht umgesetzt — bei Maschinen über Anhang III der Maschinenverordnung (EU) 2023/1230, den die Kommission per delegiertem Rechtsakt mit Geltung ab dem 02.08.2028 zu füllen hat.
+
+Für den Maschinen- und Anlagenbau ist das die zentrale Änderung des Digital Omnibus: Die KI-Verordnung selbst legt diesen Unternehmen keine Anforderungen und Pflichten aus Kapitel III mehr auf; maßgeblich wird das Maschinenrecht. Welche Pflichten daraus konkret folgen, steht erst mit dem delegierten Rechtsakt fest.
 
 > **Fundstelle:** Art. 2 Abs. 2 KI-VO n. F. (neu gefasst durch VO (EU) 2026/1744, Art. 1 Nr. 2 lit. a): "Für KI-Systeme, die als Hochrisiko-KI-Systeme gemäß Artikel 6 Absatz 1 eingestuft sind und im Zusammenhang mit Produkten stehen, die unter die in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, gelten nur Artikel 6 Absatz 1, Artikel 60a und Artikel 102 bis 112." Verschiebung der Maschinenverordnung nach Abschnitt B: VO (EU) 2026/1744, Art. 1 Nr. 41 und Art. 3; Erwägungsgrund 42.
 
@@ -418,9 +430,20 @@ Die vollständigen Pflichtenlisten mit Fundstellen finden Sie im Begleitdokument
 
 > **Fundstelle:** Art. 8–22 KI-VO (Anbieter), Art. 26 KI-VO (Betreiber). Art. 26 wurde durch den Digital Omnibus **nicht** geändert. Bei den Anbieterpflichten wurden Art. 10 (Streichung des Abs. 5, Neufassung der Abs. 1 und 6), Art. 11 Abs. 1 UAbs. 2 und Art. 17 Abs. 2 geändert; Art. 8, 9, 12–16 und 18–24 blieben unverändert. Verschoben wurde der Anwendungsbeginn.
 
-**Neu: Art. 4a — Bias-Erkennung mit besonderen Datenkategorien.** Der bisherige Art. 10 Abs. 5 wurde gestrichen und durch einen eigenständigen **Art. 4a** ersetzt. Er erlaubt die ausnahmsweise Verarbeitung besonderer Kategorien personenbezogener Daten, soweit dies zur Erkennung und Korrektur von Verzerrungen unbedingt erforderlich ist und sämtliche Bedingungen des Art. 4a Abs. 1 lit. a bis f erfüllt sind. Praktisch bedeutsam: Die Rechtsgrundlage steht nun nicht mehr nur Anbietern von Hochrisiko-Systemen offen, sondern erfasst weitere Konstellationen. Aus der Erlaubnis folgt **keine Pflicht**, eine Bias-Prüfung durchzuführen.
+**Neu: Art. 4a — Bias-Erkennung mit besonderen Datenkategorien.** Der bisherige Art. 10 Abs. 5 wurde gestrichen und durch einen eigenständigen **Art. 4a** ersetzt. Er erlaubt die ausnahmsweise Verarbeitung besonderer Kategorien personenbezogener Daten (Art. 9 DSGVO) zur Erkennung und Korrektur von Verzerrungen. Die Norm hat **zwei Absätze mit unterschiedlichem Adressatenkreis**:
 
-> **Fundstelle:** Art. 4a KI-VO (neu eingefügt durch VO (EU) 2026/1744, Art. 1 Nr. 6); Streichung des Art. 10 Abs. 5 und Neufassung der Art. 10 Abs. 1 und 6: ebenda, Art. 1 Nr. 9; Folgeänderung in Art. 2 Abs. 7: ebenda, Art. 1 Nr. 2 lit. b.
+- **Abs. 1 — Anbieter von Hochrisiko-KI-Systemen.** Sie dürfen solche Daten verarbeiten, soweit das zur Bias-Erkennung und -Korrektur im Einklang mit Art. 10 Abs. 2 lit. f und g unbedingt erforderlich ist. Sämtliche sechs Bedingungen des Abs. 1 lit. a bis f müssen **kumulativ** erfüllt sein.
+- **Abs. 2 — alle Übrigen.** Erfasst sind **Anbieter und Betreiber anderer KI-Systeme und KI-Modelle** sowie **Betreiber von Hochrisiko-KI-Systemen**. Für sie gilt eine zusätzliche Hürde: Die Verarbeitung muss sich auf Verzerrungen beziehen, die die Gesundheit und Sicherheit von Personen beeinträchtigen, negative Auswirkungen auf Grundrechte haben oder zu einer unionsrechtlich verbotenen Diskriminierung führen können. Sämtliche Bedingungen und Schutzvorkehrungen des Abs. 1 gelten zusätzlich.
+
+Das ist die praktisch bedeutsame Erweiterung: Die Rechtsgrundlage steht nicht mehr nur Anbietern von Hochrisiko-Systemen offen. Aus der Erlaubnis folgt jedoch ausdrücklich **keine Pflicht**, eine Bias-Prüfung durchzuführen.
+
+**Drei Missverständnisse, die hier häufig auftreten:**
+
+1. Art. 4a ist **keine allgemeine Rechtsgrundlage** für die Verarbeitung sensibler Daten. Er erlaubt genau einen Zweck — Erkennung und Korrektur von Verzerrungen — unter engen Bedingungen.
+2. Art. 4a **ersetzt keine datenschutzrechtliche Prüfung.** Die Verordnung stellt ausdrücklich klar, dass die Bedingungen "zusätzlich zu den Bestimmungen der Verordnungen (EU) 2016/679 und (EU) 2018/1725 und der Richtlinie (EU) 2016/680" gelten. Verantwortlichkeit, Zweckbindung, Informationspflichten und gegebenenfalls die Datenschutz-Folgenabschätzung bleiben zu prüfen.
+3. Der Anwendungsbeginn ist **nicht** der 02.08.2026, sondern der **27.07.2026** — der Tag, an dem die Änderungsverordnung in Kraft trat und damit galt.
+
+> **Fundstelle:** Art. 4a KI-VO (neu eingefügt durch VO (EU) 2026/1744, Art. 1 Nr. 6). Wortlaut des Abs. 2 UAbs. 1: "Anbieter und Betreiber anderer KI-Systeme und KI-Modelle und Betreiber von Hochrisiko-KI-Systemen dürfen ausnahmsweise besondere Kategorien personenbezogener Daten verarbeiten, sofern …". Anwendungsbeginn: Erwägungsgrund 9 der VO (EU) 2026/1744 ("ab dem Geltungsbeginn dieser Verordnung") i. V. m. Art. 4 der VO (EU) 2026/1744 — die Verordnung enthält keinen abweichenden Geltungsbeginn, sie gilt ab Inkrafttreten am 27.07.2026. Streichung des Art. 10 Abs. 5 und Neufassung der Art. 10 Abs. 1 und 6: ebenda, Art. 1 Nr. 9; Folgeänderung in Art. 2 Abs. 7: ebenda, Art. 1 Nr. 2 lit. b.
 
 ## 6.5 Die Grundrechte-Folgenabschätzung
 
@@ -449,9 +472,9 @@ Systeme aus dem Bereich kritische Infrastruktur (Anhang III Nr. 2) sind ausgenom
 | **01.08.2024** | Die Verordnung ist in Kraft. |
 | **02.02.2025** | Begriffsbestimmungen, **KI-Kompetenz (Art. 4)**, **verbotene Praktiken (Art. 5)**. |
 | **02.08.2025** | Pflichten für **KI-Modelle mit allgemeinem Verwendungszweck** (Art. 51–56), Governance-Strukturen, **Sanktionsvorschriften** (Art. 99, 100). |
-| **27.07.2026** | Die Digital-Omnibus-Verordnung (EU) 2026/1744 tritt in Kraft. Art. 102–110 KI-VO gelten ab diesem Tag. |
+| **27.07.2026** | Die Digital-Omnibus-Verordnung (EU) 2026/1744 tritt in Kraft. Art. 102–110 KI-VO gelten ab diesem Tag. Ebenfalls ab diesem Tag gilt die neue Rechtsgrundlage des **Art. 4a** (Bias-Erkennung). |
 
-> **Fundstelle:** Art. 113 Abs. 3 lit. a und b KI-VO; lit. d neu eingefügt durch VO (EU) 2026/1744, Art. 1 Nr. 40.
+> **Fundstelle:** Art. 113 Abs. 3 lit. a und b KI-VO; lit. d neu eingefügt durch VO (EU) 2026/1744, Art. 1 Nr. 40. Zu Art. 4a: ErwG 9 der VO (EU) 2026/1744 i. V. m. deren Art. 4.
 
 ## 7.2 Was als Nächstes kommt
 
@@ -462,7 +485,7 @@ Systeme aus dem Bereich kritische Infrastruktur (Anhang III Nr. 2) sind ausgenom
 | **02.12.2026** | Ende der Übergangsfrist für Anbieter **generativer Bestandssysteme**: Systeme, die vor dem 02.08.2026 in Verkehr gebracht wurden, müssen die **maschinenlesbare Kennzeichnung nach Art. 50 Abs. 2** erfüllen. |
 | **02.08.2027** | KI-Reallabore müssen in allen Mitgliedstaaten einsatzbereit sein. GPAI-Modelle, die vor dem 02.08.2025 in Verkehr gebracht wurden, müssen konform sein. |
 | **02.12.2027** | **Pflichten für Hochrisiko-KI nach Anhang III** (eigenständige Systeme) — Kapitel III Abschnitte 1, 2 und 3. |
-| **02.08.2028** | **Pflichten für Hochrisiko-KI nach Anhang I Abschnitt A** (in Produkte eingebettet) — Kapitel III Abschnitte 1, 2 und 3. Für Anhang I **Abschnitt B** (u. a. Maschinen, Kraftfahrzeuge, Eisenbahn) gilt Kapitel III nicht; dort greift das Sektorrecht. |
+| **02.08.2028** | **Pflichten für Hochrisiko-KI nach Anhang I Abschnitt A** (in Produkte eingebettet) — Kapitel III Abschnitte 1, 2 und 3. Für Anhang I **Abschnitt B** (u. a. Maschinen, Kraftfahrzeuge, Eisenbahn) gelten von der KI-VO nur Art. 6 Abs. 1, Art. 60a und Art. 102–112; im Übrigen greift das Sektorrecht (Art. 2 Abs. 2 n. F.). |
 | **02.08.2030** | Hochrisiko-Bestandssysteme, die bestimmungsgemäß von Behörden verwendet werden. |
 | **31.12.2030** | KI als Komponente großer EU-IT-Systeme nach Anhang X. |
 
@@ -486,7 +509,17 @@ Der Digital Omnibus hat die Hochrisiko-Pflichten verschoben: Systeme nach Anhang
 - **Kapitel IX** — Beobachtung nach dem Inverkehrbringen (Art. 72), Meldung schwerwiegender Vorfälle (Art. 73), Recht auf Erläuterung (Art. 86);
 - **Kapitel IV** — Transparenzpflichten (Art. 50).
 
-Diese Vorschriften gelten seit dem allgemeinen Geltungsbeginn am 2. August 2026. In der Praxis greifen die Konformitäts- und Registrierungspflichten erst, sobald ein System nach dem verschobenen Art. 6 überhaupt als hochriskant einzustufen ist — das ist eine vertretbare, aber nicht zwingende Auslegung. Wer sich darauf stützt, sollte die Erwägung dokumentieren.
+Diese Vorschriften gelten seit dem allgemeinen Geltungsbeginn am 02.08.2026. In der Praxis greifen die Konformitäts- und Registrierungspflichten erst, sobald ein System nach dem verschobenen Art. 6 überhaupt als hochriskant einzustufen ist — das ist eine vertretbare, aber nicht zwingende Auslegung.
+
+> **Bitte trennen Sie drei Dinge — in Ihrer Dokumentation ebenso wie in der Arbeitshilfe:**
+>
+> | | |
+> |---|---|
+> | **Gesetzlicher Wortlaut** | Verschoben werden ausdrücklich nur Kapitel III Abschnitte 1, 2 und 3 (ohne Art. 6 Abs. 5). |
+> | **Arbeitsannahme** | Dieses Dokumentenpaket plant die Pflichten aus Abschnitt 5, Kapitel IV und Kapitel IX einheitlich zum jeweiligen Hochrisiko-Termin (02.12.2027 bzw. 02.08.2028), weil sie ohne anwendbaren Art. 6 praktisch leerlaufen. |
+> | **Bestätigung** | Diese Auslegung ist **nicht** anwaltlich bestätigt. Vor Markteinführung oder Inbetriebnahme eines konkreten Systems ist sie zu prüfen und die Prüfung mit Datum und Prüfer zu dokumentieren. |
+>
+> Überall dort, wo in den Checklisten und in der Arbeitshilfe "HR-Frist" oder ein Hochrisiko-Datum steht, handelt es sich um diese **Planungsannahme**, nicht um eine gesicherte gesetzliche Frist.
 
 > **Fundstelle:** Art. 113 Abs. 3 lit. c KI-VO n. F.: "Kapitel III Abschnitte 1, 2 und 3, mit Ausnahme von Artikel 6 Absatz 5, gelten ab dem: i) 2. Dezember 2027 … ii) 2. August 2028." Gliederung der KI-VO: Kapitel III Abschnitt 5 = Art. 40–49; Kapitel IX = Art. 72 ff.
 
@@ -627,7 +660,7 @@ Verstöße gegen Art. 50 können mit bis zu 15 Millionen Euro oder 3 % des weltw
 Falsch. Verbote, KI-Kompetenz, Transparenzpflichten und GPAI-Pflichten sind davon nicht betroffen. Ab dem 2. August 2026 gelten die Transparenzpflichten; ab dem 2. Dezember 2026 zwei neue Verbote. Außerdem: Wer erst 2027 mit dem Aufbau eines Risikomanagementsystems beginnt, wird die Frist kaum halten.
 
 **"Der EU AI Act gilt nur für Unternehmen mit Sitz in der EU."**
-Falsch. Er gilt auch für Anbieter und Betreiber aus Drittstaaten, wenn das Ergebnis des KI-Systems in der EU verwendet wird.
+Falsch. Er gilt auch für Anbieter und Betreiber aus Drittstaaten, wenn die vom KI-System hervorgebrachte Ausgabe in der Union verwendet wird.
 > **Fundstelle:** Art. 2 Abs. 1 lit. c KI-VO.
 
 **"Wir kaufen KI nur ein, also sind wir nicht betroffen."**
@@ -655,8 +688,16 @@ Halb richtig — und nicht neu. Praxisleitfäden haben nie eine Konformitäts**v
 > **Fundstelle:** Art. 56 Abs. 6 KI-VO n. F.; Nachweismöglichkeit: Art. 53 Abs. 4, Art. 55 Abs. 2 KI-VO; Konformitätsvermutung: Art. 40 KI-VO.
 
 **"Wir bauen Maschinen mit KI — für uns gilt der AI Act ab August 2028 in vollem Umfang."**
-Falsch. Seit Juli 2026 steht die Maschinenverordnung (EU) 2023/1230 in **Anhang I Abschnitt B**. Für Hochrisiko-KI im Zusammenhang mit solchen Produkten gelten nach Art. 2 Abs. 2 KI-VO n. F. **nur Art. 6 Abs. 1, Art. 60a und Art. 102 bis 112** — nicht das Kapitel III. Die Anforderungen laufen stattdessen über das Maschinenrecht.
+Falsch. Seit Juli 2026 steht die Maschinenverordnung (EU) 2023/1230 in **Anhang I Abschnitt B**. Für Hochrisiko-KI im Zusammenhang mit solchen Produkten gelten nach Art. 2 Abs. 2 KI-VO n. F. **nur Art. 6 Abs. 1, Art. 60a und Art. 102 bis 112**. Die Anforderungen laufen stattdessen über das Maschinenrecht.
 > **Fundstelle:** Art. 2 Abs. 2 KI-VO n. F.; VO (EU) 2026/1744, Art. 1 Nr. 41 und Art. 3.
+
+**"Für Anhang I Abschnitt B gilt der AI Act gar nicht mehr."**
+Auch falsch — die Gegenrichtung. **Art. 6 Abs. 1 gilt weiter**: Das System bleibt ein Hochrisiko-KI-System im Sinne der Verordnung, ebenso gelten Art. 60a (Tests unter Realbedingungen) und Art. 102 bis 112. Nicht anwendbar sind die Anforderungs- und Pflichtenkapitel, Art. 50, Art. 72 und 73 sowie Art. 99.
+> **Fundstelle:** Art. 2 Abs. 2 KI-VO n. F. — abschließende Aufzählung.
+
+**"Art. 4a erlaubt uns als Betreiber die Verarbeitung sensibler Daten."**
+Nur unter engen Voraussetzungen. Art. 4a Abs. 2 erfasst Betreiber von Hochrisiko-Systemen sowie Anbieter und Betreiber anderer KI-Systeme und -Modelle — aber ausschließlich zur Erkennung und Korrektur von Verzerrungen, nur soweit unbedingt erforderlich, nur bei Verzerrungen mit Auswirkungen auf Gesundheit, Sicherheit, Grundrechte oder Diskriminierungsverboten, und nur wenn sämtliche Bedingungen des Abs. 1 eingehalten werden. Die datenschutzrechtliche Prüfung entfällt dadurch nicht.
+> **Fundstelle:** Art. 4a Abs. 1 und 2 KI-VO n. F.; anwendbar seit 27.07.2026.
 
 **"Wir stufen ein Anhang-III-System als nicht hochriskant ein, weil es nur eine vorbereitende Aufgabe erfüllt."**
 Das genügt nicht. Die vier Bedingungen des Art. 6 Abs. 3 UAbs. 2 eröffnen die Ausnahme nur; sie greift zusätzlich nur, wenn **kein erhebliches Risiko** für Gesundheit, Sicherheit oder Grundrechte besteht. Bei Profiling ist sie ohnehin ausgeschlossen.
@@ -675,7 +716,13 @@ Nicht automatisch. Anhang III Nr. 4 erfasst auch Systeme, die Entscheidungen nur
 
 **AI Act** — Umgangssprachliche Bezeichnung für die KI-Verordnung (EU) 2024/1689.
 
+**a. F.** — Alte Fassung. Bezeichnet den Stand einer Vorschrift vor dem Digital Omnibus.
+
 **Anbieter (Provider)** — Wer ein KI-System entwickelt oder entwickeln lässt und unter eigenem Namen in Verkehr bringt oder in Betrieb nimmt. *(Art. 3 Nr. 3 KI-VO)*
+
+**Anhang I Abschnitt A / Abschnitt B** — Zwei Listen von EU-Produktvorschriften. Bei Abschnitt A gilt das volle Kapitel III der KI-Verordnung, bei Abschnitt B nur Art. 6 Abs. 1, Art. 60a und Art. 102–112. *(Art. 2 Abs. 2 KI-VO n. F.)*
+
+**Bias / Verzerrung** — Systematische Schieflage in Daten oder Modellausgaben, die zu ungerechtfertigter Benachteiligung führen kann. *(Art. 10 Abs. 2 lit. f und g, Art. 4a KI-VO n. F.)*
 
 **Betreiber (Deployer)** — Wer ein KI-System in eigener Verantwortung beruflich verwendet. *(Art. 3 Nr. 4 KI-VO)*
 
@@ -713,13 +760,21 @@ Nicht automatisch. Anhang III Nr. 4 erfasst auch Systeme, die Entscheidungen nur
 
 **NCII** — Non-Consensual Intimate Images. Seit Juli 2026 Gegenstand eines eigenen Verbotstatbestands. *(Art. 5 Abs. 1 lit. ba KI-VO n. F.)*
 
+**n. F.** — Neue Fassung. Bezeichnet Vorschriften in der durch den Digital Omnibus geänderten Fassung.
+
 **Notifizierte Stelle** — Unabhängige Prüfstelle für Konformitätsbewertungen. *(Art. 28 ff. KI-VO)*
+
+**PMM (Post-Market Monitoring)** — Beobachtung eines Hochrisiko-Systems nach dem Inverkehrbringen, einschließlich Beobachtungsplan. *(Art. 72 KI-VO)*
+
+**QMS (Qualitätsmanagementsystem)** — Schriftlich festgelegte Regeln, Verfahren und Anweisungen, mit denen ein Anbieter die Einhaltung der Verordnung sicherstellt. *(Art. 17 KI-VO)*
 
 **Profiling** — Automatisierte Verarbeitung personenbezogener Daten zur Bewertung persönlicher Aspekte. Schließt den Ausnahmefilter des Art. 6 Abs. 3 aus. *(Art. 6 Abs. 3 UAbs. 3 KI-VO)*
 
 **Sicherheitsbauteil** — Bestandteil eines Produkts oder KI-Systems, dessen Zweckbestimmung darin besteht, Risiken für Gesundheit und Sicherheit abzuwenden oder zu mindern, oder dessen Ausfall diese gefährdet. Definition seit Juli 2026 neu gefasst. *(Art. 3 Nr. 14 KI-VO n. F.)*
 
 **Systemisches Risiko** — Risiko eines GPAI-Modells mit hohem Wirkungsgrad; vermutet ab 10²⁵ FLOP Trainingsrechenleistung. *(Art. 51 KI-VO)*
+
+**UAbs.** — Unterabsatz. Gliederungseinheit unterhalb eines Absatzes im Verordnungstext.
 
 **Wesentliche Veränderung** — Änderung nach Inverkehrbringen, die in der ursprünglichen Konformitätsbewertung nicht vorgesehen war und die Konformität beeinträchtigt oder die Zweckbestimmung ändert. *(Art. 3 Nr. 23 KI-VO)*
 
@@ -745,7 +800,10 @@ Ein pragmatischer Einstieg in fünf Schritten:
 
 # Quellen
 
-Die vollständige Liste aller verwendeten Quellen mit Abrufdaten finden Sie im Dokument **Quellenregister.md** dieses Dokumentenpakets.
+Die vollständige Liste aller verwendeten Quellen mit Abrufdaten, Prüfstatus und Prüfdatum finden Sie im **Quellenregister** dieses Dokumentenpakets — Datei `QUELLEN.md` (Veröffentlichungs-Repository) bzw. `QUELLEN.md` (Entwicklungs-Repository):
+<https://github.com/thomas-lauer/eu-ai-act/blob/main/QUELLEN.md>
+
+**Zum Belegumfang:** Die wesentlichen rechtlichen Aussagen dieses Dokuments sind mit einer Fundstelle im amtlichen Text versehen. Organisatorische Empfehlungen, Beispiele und vereinfachende Erläuterungen beruhen dagegen auf der praktischen Einschätzung des Bearbeiters; sie sind als solche formuliert und tragen bewusst keine Fundstelle. Wo eine Angabe nicht abschließend verifiziert werden konnte, ist das ausdrücklich vermerkt.
 
 **Primärquellen:**
 
@@ -766,5 +824,5 @@ Die vollständige Liste aller verwendeten Quellen mit Abrufdaten finden Sie im D
 
 ---
 
-*Erstellt am 29. Juli 2026. Rechtsstand: 29. Juli 2026.*
-*Dieses Dokument ersetzt keine Rechtsberatung im Einzelfall.*
+*Fassung 1.1 · Erstellt am 29.07.2026 · Rechtsstand: 29.07.2026*
+*Dieses Dokument ersetzt keine Rechtsberatung im Einzelfall. Nutzung unter CC BY 4.0 — bei Weitergabe bitte Rechtsstand und vorgenommene Änderungen kennzeichnen.*

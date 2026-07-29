@@ -2,8 +2,8 @@
 
 ## Für Betreiber (Deployer) und Anbieter (Provider)
 
-**Rechtsstand: 29. Juli 2026**
-Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital Omnibus, in Kraft seit 27.07.2026).
+**Rechtsstand: 29.07.2026 · Fassung 1.1**
+Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
 
 ---
 
@@ -19,9 +19,11 @@ Diese Checklisten sind eine strukturierte Arbeitshilfe, keine Rechtsberatung. Ob
 
 **Statuswerte:** `offen` · `in Arbeit` · `erfüllt` · `nicht anwendbar` (mit Begründung)
 
-**Kennzeichnung:** "n. F." bedeutet, dass die Vorschrift durch den Digital Omnibus im Juli 2026 geändert wurde.
+**Kennzeichnung:** "n. F." bedeutet, dass die Vorschrift durch den Digital Omnibus im Juli 2026 geändert wurde. "UAbs." steht für Unterabsatz, "a. F." für alte Fassung, "ErwG" für Erwägungsgrund.
 
 **Fristangaben:** Wo "gilt bereits" steht, ist die Pflicht bereits anwendbar. Wo ein Datum steht, ist das der Beginn der Anwendbarkeit.
+
+> **Was "HR-Frist" bedeutet — bitte einmal lesen.** Der Gesetzgeber hat ausdrücklich nur Kapitel III Abschnitte 1, 2 und 3 verschoben. Für einige Pflichten außerhalb dieser Abschnitte (Konformitätsbewertung, Registrierung, Beobachtung nach dem Inverkehrbringen, Vorfallmeldung, Recht auf Erläuterung) folgt aus dem Wortlaut der 02.08.2026 als Geltungsbeginn. Diese Checklisten verwenden dafür die Angabe **"HR-Frist"** — also den jeweiligen Hochrisiko-Termin 02.12.2027 bzw. 02.08.2028. Das ist eine **Planungsannahme**, keine gesicherte gesetzliche Frist: Sie beruht darauf, dass diese Pflichten ohne anwendbaren Art. 6 praktisch leerlaufen. Die Annahme ist **nicht anwaltlich bestätigt**. Wer sich darauf stützt, sollte für das konkrete System dokumentieren: (1) welcher Wortlaut gilt, (2) welche Frist geplant wird, (3) ob und durch wen die Auslegung geprüft wurde.
 
 ---
 
@@ -37,6 +39,7 @@ Diese Checklisten sind eine strukturierte Arbeitshilfe, keine Rechtsberatung. Ob
 | 0.6 | **Entwickeln** wir ein KI-System oder lassen es entwickeln und bringen es unter eigenem Namen in Verkehr? | Art. 3 Nr. 3 | → **Checkliste B (Anbieter)** |
 | 0.7 | Könnten wir durch Eigenlabeling, wesentliche Veränderung oder Zweckänderung zum Anbieter werden? | Art. 25 Abs. 1 | → **Checkliste C (Rollenwechsel) — unbedingt prüfen** |
 | 0.8 | Gilt für uns unabhängig von Rolle und Risikoklasse etwas? | Art. 4, Art. 5, Art. 50 | → **Checkliste D (Querschnitt) — gilt immer** |
+| 0.9 | Steht das System im Zusammenhang mit einem Produkt nach **Anhang I**? Wenn ja: **Abschnitt A oder B?** | Anhang I, Art. 2 Abs. 2 n. F. | Abschnitt B → nur Art. 6 Abs. 1, Art. 60a, Art. 102–112 plus Sektorrecht; Checklisten A und B nicht anwenden |
 
 > **Hinweis:** Die Rollen schließen sich nicht aus. Ein Unternehmen kann für ein System Betreiber und für ein anderes Anbieter sein. Die Prüfung erfolgt **pro System**, nicht pro Unternehmen.
 
@@ -126,12 +129,18 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 | A.0.2 | Falls Anhang III: Greift der **Ausnahmefilter** des Art. 6 Abs. 3? Er setzt **kumulativ** voraus: (1) **kein erhebliches Risiko** für Gesundheit, Sicherheit oder Grundrechte **und** (2) mindestens eine der vier Bedingungen (eng gefasste Verfahrensaufgabe / Verbesserung abgeschlossener menschlicher Tätigkeit / Mustererkennung ohne Ersetzung menschlicher Bewertung / vorbereitende Aufgabe). Eine Bedingung allein genügt **nicht**. | Art. 6 Abs. 3 UAbs. 1 und 2 | | Begründete Bewertung zu beiden Voraussetzungen | |
 | A.0.3 | **Sperre prüfen:** Nimmt das System **Profiling** natürlicher Personen vor? Dann gilt es **immer** als hochriskant — der Ausnahmefilter ist ausgeschlossen. | Art. 6 Abs. 3 UAbs. 3 | | Bewertung | |
 | A.0.4 | Wenn das System **nicht** hochriskant ist: Gelten Transparenzpflichten (Art. 50) oder Verbote (Art. 5)? | Art. 5, 50 | | Bewertung | |
+| A.0.5 | Falls Anhang I: **Welcher konkrete Rechtsakt** aus Anhang I ist einschlägig, und steht er in **Abschnitt A oder Abschnitt B**? Solange das offen ist, keine Frist und keine Pflichtenliste als gesichert behandeln. | Anhang I, Art. 2 Abs. 2 n. F. | | Rechtsaktbestimmung mit Nummer und Abschnitt | |
+| A.0.6 | Falls Abschnitt B: Diese Checkliste ist **nicht** anwendbar. Maßgeblich sind Art. 6 Abs. 1, Art. 60a, Art. 102–112 KI-VO und das jeweilige Sektorrecht. | Art. 2 Abs. 2 n. F. | | Zuordnung zum Sektorrecht | |
+| A.0.7 | Ist die Einstufung **juristisch bestätigt**? Festhalten: Ja / Nein / offen, Datum, prüfende Person. Ohne Bestätigung gilt jede Frist als Planungsannahme. | (Nachweisführung) | | Prüfvermerk mit Datum und Prüfer | |
 
 > **Die Pflichten unter A.1 bis A.7 gelten für Hochrisiko-KI-Systeme ab dem 02.12.2027 (Anhang III) bzw. 02.08.2028 (Anhang I Abschnitt A).** *(Art. 113 Abs. 3 lit. c KI-VO n. F.)* Die Vorlaufzeit ist bewusst zu nutzen — Risikomanagement, Aufsichtsorganisation und Nachweisführung lassen sich nicht kurzfristig aufbauen.
 
-> **Reichweite der Verschiebung — bitte beachten:** Art. 113 Abs. 3 lit. c KI-VO n. F. verschiebt ausschließlich **Kapitel III Abschnitte 1, 2 und 3** (Art. 6–27, ohne Art. 6 Abs. 5). **Nicht** vom Wortlaut erfasst sind Kapitel III Abschnitt 5 (Art. 40–49: Konformitätsbewertung, Konformitätserklärung, CE, Registrierung), Kapitel IX (Art. 72, 73, 86) und Kapitel IV (Art. 50). Diese gelten seit dem 02.08.2026. In der Praxis greifen sie erst, sobald ein System nach dem verschobenen Art. 6 als hochriskant einzustufen ist — das ist eine vertretbare, aber nicht zwingende Auslegung. Die Angabe "HR-Frist" in den folgenden Tabellen steht unter diesem Vorbehalt; wer sich darauf stützt, sollte die Erwägung dokumentieren.
+> **Reichweite der Verschiebung — Planungsannahme, nicht gesicherte Frist:** Art. 113 Abs. 3 lit. c KI-VO n. F. verschiebt ausschließlich **Kapitel III Abschnitte 1, 2 und 3** (Art. 6–27, ohne Art. 6 Abs. 5). **Nicht** vom Wortlaut erfasst sind Kapitel III Abschnitt 5 (Art. 40–49: Konformitätsbewertung, Konformitätserklärung, CE, Registrierung), Kapitel IX (Art. 72, 73, 86) und Kapitel IV (Art. 50). Diese gelten seit dem 02.08.2026. In der Praxis greifen sie erst, sobald ein System nach dem verschobenen Art. 6 als hochriskant einzustufen ist — das ist eine vertretbare, aber **nicht zwingende und nicht anwaltlich bestätigte** Auslegung. Die Angabe "HR-Frist" in den folgenden Tabellen steht unter diesem Vorbehalt. Vor Inbetriebnahme eines konkreten Systems ist die Frage zu prüfen; halten Sie Ergebnis, Datum und Prüfer fest.
 
-> **Anhang I Abschnitt A oder B?** Diese Unterscheidung entscheidet, ob Kapitel III überhaupt gilt. Für Produkte nach **Anhang I Abschnitt B** — Zivilluftfahrt, Kraftfahrzeuge, Schiffsausrüstung, Eisenbahn und seit Juli 2026 die **Maschinenverordnung (EU) 2023/1230** — gelten nach Art. 2 Abs. 2 KI-VO n. F. **nur Art. 6 Abs. 1, Art. 60a und Art. 102–112**. Die Checklisten A und B sind für solche Systeme **nicht** anzuwenden; maßgeblich ist das jeweilige Sektorrecht (bei Maschinen: Anhang III der VO (EU) 2023/1230, delegierter Rechtsakt mit Geltung ab 02.08.2028).
+> **Anhang I Abschnitt A oder B? Zuerst klären — dann weiterarbeiten.** Bestimmen Sie den konkreten Rechtsakt aus Anhang I und den Abschnitt, in dem er gelistet ist.
+> **Abschnitt A** (u. a. Spielzeug, Aufzüge, ATEX, Funkanlagen, Druckgeräte, Seilbahnen, PSA, Gasverbrennungsgeräte, Medizinprodukte, In-vitro-Diagnostika): volles Kapitel III ab 02.08.2028 — vorbehaltlich delegierter Rechtsakte nach Art. 2 Abs. 13 KI-VO n. F. (bis 02.08.2027).
+> **Abschnitt B** (Zivilluftfahrt, Kraftfahrzeuge, Schiffsausrüstung, Eisenbahn und seit Juli 2026 die **Maschinenverordnung (EU) 2023/1230**): Es gelten nach Art. 2 Abs. 2 KI-VO n. F. **nur Art. 6 Abs. 1, Art. 60a und Art. 102–112** — Art. 57, 58 und 59 zusätzlich, soweit das Sektorrecht die Hochrisiko-Anforderungen übernommen hat. **Achtung:** "Kapitel III gilt nicht" wäre zu grob — **Art. 6 Abs. 1 gilt weiter**, das System bleibt also ein Hochrisiko-KI-System im Sinne der Verordnung. Die Checklisten A und B sind auf die Pflichtenteile für solche Systeme **nicht** anzuwenden; maßgeblich ist das jeweilige Sektorrecht (bei Maschinen: Anhang III der VO (EU) 2023/1230, delegierter Rechtsakt mit Geltung ab 02.08.2028).
+> **Noch offen:** Solange der Abschnitt nicht bestimmt ist, dürfen weder eine Frist noch eine Pflichtenliste als gesichert behandelt werden.
 
 ## A.1 Verwendung gemäß Betriebsanleitung
 
@@ -207,7 +216,8 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 | A.7.3 | Informationen des Anbieters nach Art. 13 für eine ggf. erforderliche **Datenschutz-Folgenabschätzung** verwenden | Art. 26 Abs. 9 | HR-Frist | | DSFA | |
 | A.7.4 | Mit den zuständigen Behörden bei allen Maßnahmen zum System **zusammenarbeiten** | Art. 26 Abs. 12 | HR-Frist | | Ansprechpartner, Verfahren | |
 | A.7.5 | **Nur bei nachträglicher biometrischer Fernidentifizierung zu Strafverfolgungszwecken:** Genehmigung vorab oder **spätestens binnen 48 Stunden** einholen; bei Ablehnung Verwendung mit sofortiger Wirkung einstellen und Daten löschen; jede Verwendung in der Akte dokumentieren; Jahresberichte an Marktüberwachungs- und Datenschutzbehörde | Art. 26 Abs. 10 | HR-Frist | | Genehmigungen, Löschprotokolle, Jahresberichte | |
-| A.7.6 | **n. F.:** Bei Verarbeitung besonderer Kategorien personenbezogener Daten zur Erkennung und Korrektur von Verzerrungen: sämtliche Bedingungen des Art. 4a Abs. 1 lit. a–f einhalten (Art. 10 Abs. 5 a. F. ist gestrichen). Aus der Erlaubnis folgt **keine Pflicht** zur Bias-Prüfung. | Art. 4a KI-VO n. F. | gilt ab 02.08.2026 | | Erforderlichkeitsprüfung, Schutzvorkehrungen | |
+| A.7.6 | **n. F.:** Verarbeitung besonderer Kategorien personenbezogener Daten zur Erkennung und Korrektur von Verzerrungen. Für **Betreiber** gilt **Art. 4a Abs. 2**: zusätzlich zu sämtlichen Bedingungen des Abs. 1 lit. a–f muss die Verarbeitung **unbedingt erforderlich** sein im Hinblick auf Verzerrungen, die Gesundheit und Sicherheit beeinträchtigen, negative Auswirkungen auf Grundrechte haben oder zu unionsrechtlich verbotener Diskriminierung führen können. Aus der Erlaubnis folgt **keine Pflicht** zur Bias-Prüfung. | Art. 4a Abs. 2 i. V. m. Abs. 1 KI-VO n. F. | gilt seit 27.07.2026 | | Erforderlichkeitsprüfung, Schutzvorkehrungen, Verarbeitungsverzeichnis-Eintrag mit Begründung (Abs. 1 lit. f) | |
+| A.7.7 | **Abgrenzung:** Art. 4a ist **keine allgemeine Rechtsgrundlage** und **ersetzt keine datenschutzrechtliche Prüfung**. Die Bedingungen gelten ausdrücklich *zusätzlich* zu DSGVO, VO (EU) 2018/1725 und RL (EU) 2016/680. Verantwortlichkeit, Zweckbindung, Betroffenenrechte und ggf. DSFA gesondert prüfen. | Art. 4a Abs. 1 UAbs. 1 KI-VO n. F.; Art. 9 DSGVO | gilt seit 27.07.2026 | | Datenschutzrechtliche Bewertung | |
 
 > **Sprachfassungshinweis zu A.7.1/A.7.2:** Der amtliche deutsche Text des Art. 26 Abs. 8 nennt nur Organe, Einrichtungen und sonstige Stellen **der Union**. Der amtliche englische Text nennt zusätzlich "public authorities", also auch nationale Behörden. Für öffentliche Stellen in Deutschland ist vorsorglich von der weiteren Lesart auszugehen. Ob ein Corrigendum ergangen ist, wurde nicht verifiziert.
 
@@ -252,6 +262,9 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 | B.0.9 | Bei Berufung auf Art. 6 Abs. 3: Bewertung **vor** Inverkehrbringen/Inbetriebnahme **dokumentieren** | Art. 6 Abs. 4 S. 1 | | Bewertungsdokument mit Datum | |
 | B.0.10 | Bei Berufung auf Art. 6 Abs. 3: dennoch **Registrierung nach Art. 49 Abs. 2** vornehmen | Art. 6 Abs. 4 S. 2 | | Registrierungsbestätigung | |
 | B.0.11 | Dokumentation auf Verlangen der zuständigen nationalen Behörden vorlegen | Art. 6 Abs. 4 S. 3 | | Bereitstellungsverfahren | |
+| B.0.12 | Falls Weg A: **Konkreten Rechtsakt aus Anhang I benennen und Abschnitt bestimmen (A oder B).** Bei **Abschnitt B** gelten von der KI-VO nur Art. 6 Abs. 1, Art. 60a und Art. 102–112 — diese Checkliste ist dann nicht anwendbar; maßgeblich ist das Sektorrecht (bei Maschinen: Anhang III der VO (EU) 2023/1230, delegierter Rechtsakt ab 02.08.2028). | Anhang I; Art. 2 Abs. 2 n. F.; VO (EU) 2026/1744 Art. 1 Nr. 41 und Art. 3 | | Rechtsaktbestimmung mit Nummer und Abschnitt | |
+| B.0.13 | Bei **Abschnitt A**: delegierte Rechtsakte nach Art. 2 Abs. 13 KI-VO n. F. beobachten (Frist der Kommission: 02.08.2027) — sie können die Anwendung der Art. 9–15 und 17–25 beschränken. | Art. 2 Abs. 13 n. F. | | Beobachtungsvermerk | |
+| B.0.14 | Ist die Einstufung **juristisch bestätigt**? Ja / Nein / offen, mit Datum und prüfender Person festhalten. | (Nachweisführung) | | Prüfvermerk | |
 
 > **Häufiger Irrtum:** Art. 6 Abs. 3 und Abs. 4 wurden durch den Digital Omnibus **nicht** geändert. Die Registrierungspflicht bei Selbsteinstufung als nicht-hochriskant besteht fort. Gestrichen wurden lediglich zwei Angaben im Registrierungsformular (Anhang VIII Abschnitt B Nrn. 7 und 9).
 
@@ -275,7 +288,8 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 | B.2.2 | Datensätze sind **relevant, hinreichend repräsentativ und so weit wie möglich fehlerfrei und vollständig** im Hinblick auf die Zweckbestimmung | Art. 10 Abs. 3 | | Datenqualitätsbericht | |
 | B.2.3 | Berücksichtigung der **geografischen, kontextbezogenen, verhaltensbezogenen und funktionalen Rahmenbedingungen** des Einsatzes | Art. 10 Abs. 4 | | Kontextanalyse | |
 | B.2.4 | Untersuchung auf mögliche **Verzerrungen (Bias)**, die Gesundheit, Sicherheit, Grundrechte oder Diskriminierungsfreiheit beeinträchtigen | Art. 10 Abs. 2 lit. f und g | | Bias-Prüfbericht | |
-| B.2.5 | **n. F.:** Verarbeitung besonderer Kategorien personenbezogener Daten zur Erkennung und Korrektur von Verzerrungen nur unter den **kumulativen** Bedingungen des Art. 4a Abs. 1 lit. a–f. **Art. 10 Abs. 5 a. F. wurde gestrichen.** | Art. 4a KI-VO n. F. (VO (EU) 2026/1744, Art. 1 Nrn. 6 und 9) | | Rechtsgrundlagenprüfung | |
+| B.2.5 | **n. F.:** Als **Anbieter eines Hochrisiko-Systems** dürfen besondere Kategorien personenbezogener Daten zur Erkennung und Korrektur von Verzerrungen verarbeitet werden, soweit das im Einklang mit Art. 10 Abs. 2 lit. f und g **unbedingt erforderlich** ist und **sämtliche** Bedingungen des Art. 4a Abs. 1 lit. a–f erfüllt sind. **Art. 10 Abs. 5 a. F. wurde gestrichen.** Anwendbar seit 27.07.2026 — also bereits vor der HR-Frist. | Art. 4a Abs. 1 KI-VO n. F. (VO (EU) 2026/1744, Art. 1 Nrn. 6 und 9) | | Rechtsgrundlagenprüfung, Löschkonzept (lit. e), Begründung im Verarbeitungsverzeichnis (lit. f) | |
+| B.2.6 | **Abgrenzung:** Die Bedingungen des Art. 4a gelten **zusätzlich** zu DSGVO, VO (EU) 2018/1725 und RL (EU) 2016/680 — sie ersetzen die datenschutzrechtliche Prüfung nicht. | Art. 4a Abs. 1 UAbs. 1 KI-VO n. F. | | Datenschutzrechtliche Bewertung | |
 
 ## B.3 Technische Dokumentation (Art. 11, Anhang IV)
 
@@ -440,13 +454,13 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 |---|---|---|
 | 02.02.2025 | KI-Kompetenz (Art. 4), Verbote (Art. 5) | **gilt bereits** — alle |
 | 02.08.2025 | GPAI-Pflichten, Governance, Sanktionen | **gilt bereits** — GPAI-Anbieter, alle |
-| 27.07.2026 | Digital Omnibus in Kraft; Art. 102–110 KI-VO anwendbar | alle |
+| **27.07.2026** | Digital Omnibus in Kraft; Art. 102–110 KI-VO anwendbar; **Art. 4a (Bias-Erkennung mit besonderen Datenkategorien) anwendbar** | alle |
 | **02.08.2026** | **Transparenzpflichten (Art. 50)**, Art. 101 | **alle** |
 | **02.12.2026** | **Neue Verbote NCII/CSAM (Art. 5 lit. ba, bb)** | **alle** |
 | **02.12.2026** | **Kennzeichnung generativer Bestandssysteme (Art. 50 Abs. 2)** | **Anbieter generativer Systeme** |
 | 02.08.2027 | KI-Reallabore einsatzbereit; GPAI-Bestandsmodelle konform | Mitgliedstaaten, GPAI-Anbieter |
 | **02.12.2027** | **Hochrisiko-Pflichten Anhang III** | **Anbieter und Betreiber** |
-| **02.08.2028** | **Hochrisiko-Pflichten Anhang I** | **Anbieter und Betreiber** |
+| **02.08.2028** | **Hochrisiko-Pflichten Anhang I Abschnitt A.** Für Abschnitt B gelten nur Art. 6 Abs. 1, Art. 60a und Art. 102–112 (Art. 2 Abs. 2 n. F.); dort greift das Sektorrecht | **Anbieter und Betreiber** |
 | 28.01.2028 | Frist für Benennungsanträge notifizierter Stellen | notifizierte Stellen |
 | 02.08.2030 | Hochrisiko-Bestandssysteme in Behördennutzung | öffentliche Stellen |
 | 31.12.2030 | KI in IT-Großsystemen nach Anhang X | Unionsstellen |
@@ -467,6 +481,6 @@ Es gilt jeweils der **höhere** Betrag. Für **KMU einschließlich Start-ups** g
 
 ---
 
-*Erstellt am 29. Juli 2026. Rechtsstand: 29. Juli 2026.*
-*Diese Checklisten ersetzen keine Rechtsberatung im Einzelfall.*
-*Vollständiges Quellenverzeichnis: siehe Quellenregister.md dieses Dokumentenpakets.*
+*Fassung 1.1 · Erstellt am 29.07.2026 · Rechtsstand: 29.07.2026*
+*Diese Checklisten ersetzen keine Rechtsberatung im Einzelfall. Nutzung unter CC BY 4.0 — bei Weitergabe bitte Rechtsstand und vorgenommene Änderungen kennzeichnen.*
+*Vollständiges Quellenverzeichnis mit Prüfstatus: `QUELLEN.md` — <https://github.com/thomas-lauer/eu-ai-act/blob/main/QUELLEN.md>*
