@@ -2,7 +2,7 @@
 
 ## Für Betreiber (Deployer) und Anbieter (Provider)
 
-**Rechtsstand: 29.07.2026 · Fassung 1.1**
+**Rechtsstand: 29.07.2026 · Fassung 1.2**
 Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
 
 ---
@@ -113,7 +113,9 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 | D.4.6 | **Lieferantenverträge** prüfen: Rollenabgrenzung, Informations- und Mitwirkungspflichten, Zugang zu technischer Dokumentation und Protokollen | Art. 25 Abs. 2 n. F., Art. 26 | laufend | | Vertragsklauseln, Vertragsregister | |
 | D.4.7 | **Datenschutz koppeln:** Verarbeitungsverzeichnis, Erforderlichkeit einer DSFA nach Art. 35 DSGVO prüfen | Art. 26 Abs. 9, Art. 27 Abs. 4 n. F. | laufend | | DSFA, Verzeichnis | |
 | D.4.8 | **Mitbestimmung** prüfen (Betriebsrat, Beteiligungsrechte nach nationalem Recht) | Art. 2 Abs. 11, Art. 26 Abs. 7 S. 2 KI-VO i. V. m. nationalem Betriebsverfassungsrecht | vor Einführung | | Beteiligungsnachweis | |
-| D.4.9 | **Turnus für Rechtsstands-Review** festlegen (die Rechtslage ist in Bewegung) | — | laufend | | Review-Protokoll | |
+| D.4.9 | **Turnus für Rechtsstands-Review** festlegen (die Rechtslage ist in Bewegung). Empfohlen: quartalsweise. Beobachtungsliste im Begleitdokument "Geplante Änderungen — Digitaler Omnibus" | — | laufend | | Review-Protokoll | |
+| D.4.9a | **KI-Inventar jährlich gegen den geltenden Anhang III und die Verbotsliste abgleichen** — die Kommission prüft beide Listen jedes Jahr auf Änderungsbedarf; ein bisher unkritisches System kann dadurch hochriskant werden | Art. 112 Abs. 1 KI-VO | jährlich | | Abgleichprotokoll mit Datum | |
+| D.4.9b | **Ausstehende Rechtsakte verfolgen:** delegierte Rechtsakte nach Art. 2 Abs. 13 (bis 02.08.2027), Anhang III der Maschinen-VO (gilt ab 02.08.2028), Leitlinien nach Art. 6 Abs. 5, Art. 96 Abs. 1 lit. g (bis 01.08.2027) und Art. 72 Abs. 3 (bis 02.09.2027) | Art. 2 Abs. 13, Art. 6 Abs. 5, Art. 72 Abs. 3, Art. 96 Abs. 1 lit. g KI-VO n. F. | laufend | | Beobachtungsliste | |
 | D.4.10 | **Beschwerdeeingänge einplanen:** Jede Person kann bei der Marktüberwachungsbehörde Beschwerde einlegen — internen Prozess für behördliche Rückfragen vorsehen | Art. 85 | gilt ab 02.08.2026 | | Eskalationsprozess | |
 | D.4.11 | Prüfen, ob wir zusätzlich **Einführer** (Art. 23) oder **Händler** (Art. 24) sind — diese Rollen haben eigene Pflichten, die in diesen Checklisten nicht abgebildet sind | Art. 3 Nrn. 6 und 7, Art. 23, Art. 24 | HR-Frist | | Rollenprüfung | |
 
@@ -481,6 +483,7 @@ Es gilt jeweils der **höhere** Betrag. Für **KMU einschließlich Start-ups** g
 
 ---
 
-*Fassung 1.1 · Erstellt am 29.07.2026 · Rechtsstand: 29.07.2026*
+*Fassung 1.2 · Erstellt am 29.07.2026 · Rechtsstand: 29.07.2026*
 *Diese Checklisten ersetzen keine Rechtsberatung im Einzelfall. Nutzung unter CC BY 4.0 — bei Weitergabe bitte Rechtsstand und vorgenommene Änderungen kennzeichnen.*
 *Vollständiges Quellenverzeichnis mit Prüfstatus: `QUELLEN.md` — <https://github.com/thomas-lauer/eu-ai-act/blob/main/QUELLEN.md>*
+*Was an der Rechtslage noch offen ist: Begleitdokument "Geplante Änderungen — Digitaler Omnibus".*

@@ -2,7 +2,7 @@
 
 ## Die KI-Verordnung der Europäischen Union — verständlich und praxisnah erklärt
 
-**Rechtsstand: 29.07.2026 · Fassung 1.1**
+**Rechtsstand: 29.07.2026 · Fassung 1.2**
 Berücksichtigt werden die Verordnung (EU) 2024/1689 (KI-Verordnung) in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
 
 ---
@@ -426,7 +426,7 @@ Auch diese Vorschrift wurde **nicht** geändert. Der Kommissionsvorschlag sah vo
 
 **Betreiber** müssen unter anderem: das System gemäß Betriebsanleitung verwenden und dies durch technische und organisatorische Maßnahmen absichern (Art. 26 Abs. 1), die menschliche Aufsicht kompetenten und befugten Personen übertragen (Abs. 2), auf geeignete Eingabedaten achten (Abs. 4), den Betrieb überwachen und bei Risiken die Verwendung aussetzen und melden (Abs. 5), Protokolle mindestens sechs Monate aufbewahren (Abs. 6), Beschäftigte und ihre Vertretungen vorab informieren (Abs. 7), betroffene Personen informieren (Abs. 11) und mit Behörden zusammenarbeiten (Abs. 12).
 
-Die vollständigen Pflichtenlisten mit Fundstellen finden Sie im Begleitdokument "Checklisten Anbieter und Betreiber".
+Die vollständigen Pflichtenlisten mit Fundstellen finden Sie im Begleitdokument "Checklisten Anbieter und Betreiber". Was an diesen Pflichten noch nicht endgültig feststeht — ausstehende delegierte Rechtsakte, Leitlinien und Muster —, steht im Begleitdokument "Geplante Änderungen — Digitaler Omnibus".
 
 > **Fundstelle:** Art. 8–22 KI-VO (Anbieter), Art. 26 KI-VO (Betreiber). Art. 26 wurde durch den Digital Omnibus **nicht** geändert. Bei den Anbieterpflichten wurden Art. 10 (Streichung des Abs. 5, Neufassung der Abs. 1 und 6), Art. 11 Abs. 1 UAbs. 2 und Art. 17 Abs. 2 geändert; Art. 8, 9, 12–16 und 18–24 blieben unverändert. Verschoben wurde der Anwendungsbeginn.
 
@@ -796,6 +796,10 @@ Ein pragmatischer Einstieg in fünf Schritten:
 
 **Schritt 5 — Nachweise aufbauen.** Was Sie nicht dokumentieren, können Sie im Prüffall nicht belegen. Legen Sie von Anfang an fest, wo Bewertungen, Schulungsnachweise, Protokolle und Verträge abgelegt werden.
 
+**Schritt 6 — Beobachten, was noch kommt.** Mehrere Punkte der Verordnung sind bewusst offen gelassen: delegierte Rechtsakte, Leitlinien und Muster stehen noch aus, und die Kommission prüft **jährlich**, ob Anhang III und die Verbotsliste zu ändern sind. Parallel läuft die zweite Hälfte des Digital Omnibus — die Datenverordnung mit Änderungen an DSGVO, Data Act und ePrivacy — noch im Gesetzgebungsverfahren. Das Begleitdokument **"Geplante Änderungen — Digitaler Omnibus"** führt beides mit Fristen und einer Beobachtungsliste zusammen.
+
+> **Fundstelle:** Art. 112 Abs. 1 KI-VO (jährliche Prüfung von Anhang III und Art. 5); Art. 2 Abs. 13 KI-VO n. F. (delegierte Rechtsakte bis 02.08.2027).
+
 ---
 
 # Quellen
@@ -824,5 +828,5 @@ Die vollständige Liste aller verwendeten Quellen mit Abrufdaten, Prüfstatus un
 
 ---
 
-*Fassung 1.1 · Erstellt am 29.07.2026 · Rechtsstand: 29.07.2026*
+*Fassung 1.2 · Erstellt am 29.07.2026 · Rechtsstand: 29.07.2026*
 *Dieses Dokument ersetzt keine Rechtsberatung im Einzelfall. Nutzung unter CC BY 4.0 — bei Weitergabe bitte Rechtsstand und vorgenommene Änderungen kennzeichnen.*

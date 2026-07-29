@@ -18,7 +18,7 @@ Wo die Dokumente dennoch einheitlich mit dem jeweiligen Hochrisiko-Termin arbeit
 
 ## Rechtsstand
 
-**29.07.2026 · Fassung 1.1**
+**29.07.2026 · Fassung 1.2**
 
 Berücksichtigt sind:
 

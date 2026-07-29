@@ -1,20 +1,21 @@
-﻿# EU AI Act — verständlich erklärt
+# EU AI Act — verständlich erklärt
 
-Ein Dokumentenpaket zur EU-KI-Verordnung für Unternehmen: eine verständlich und praxisnah geschriebene Beschreibung, Umsetzungs-Checklisten für Anbieter und Betreiber und eine Excel-Arbeitshilfe.
+Ein Dokumentenpaket zur EU-KI-Verordnung für Unternehmen: eine verständlich und praxisnah geschriebene Beschreibung, Umsetzungs-Checklisten für Anbieter und Betreiber, eine Excel-Arbeitshilfe und ein Ausblick auf die noch ausstehenden Änderungen.
 
-**Rechtsstand: 29.07.2026 · Fassung 1.1** — Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
+**Rechtsstand: 29.07.2026 · Fassung 1.2** — Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
 
 > **Keine Rechtsberatung.** Siehe [DISCLAIMER.md](DISCLAIMER.md). **Lizenz:** CC BY 4.0 — siehe [LICENSE](LICENSE).
 
 ---
 
-## Die drei Dokumente
+## Die vier Dokumente
 
 | Datei | Was drin ist | Für wen |
 |---|---|---|
 | **01 Beschreibung** (.docx) | Was der AI Act regelt, für wen er gilt, die Risikostufen als Prüfmodell, die Rollen, was wann gilt, GPAI, Transparenzpflichten, häufige Irrtümer, Glossar | Geschäftsführung, Fachbereiche, alle, die einen Überblick brauchen |
 | **02 Checklisten** (.docx) | Abhakbare Pflichtenlisten mit Fundstelle, Frist, Status, Nachweis und Verantwortlichem — für Betreiber, Anbieter, Rollenwechsel und Querschnittspflichten | Umsetzungsverantwortliche |
 | **03 Arbeitshilfe** (.xlsx) | Zehn Blätter: Anleitung, KI-Inventar, Rollen-Check, Risiko-Einstufung, Pflichten-Matrix (90 Pflichten), Maßnahmenplan, Dashboard, Quellen, Register und ein ausgefülltes Beispiel | Wer die Umsetzung steuert und nachweisen muss |
+| **04 Geplante Änderungen** (.docx) | Was aus der KI-Verordnung noch nachkommt — delegierte Rechtsakte, Leitlinien, Muster, die jährliche Prüfung von Anhang III — und was die noch offene Digital-Omnibus-Verordnung zu DSGVO, Data Act und ePrivacy bringen würde; mit Verfahrensstand und Beobachtungsliste | Wer vorausplant und Verträge oder Projekte auf Änderungen einstellen muss |
 
 Die Word-Dokumente sind zweistufig aufgebaut: Der Haupttext ist bewusst einfach geschrieben, die juristische Fundstelle steht jeweils direkt darunter. Wer nur wissen will, was zu tun ist, überspringt sie; wer prüfen oder zitieren will, findet dort den Beleg.
 
@@ -29,6 +30,7 @@ Unter [`markdown/`](markdown/) liegen dieselben Inhalte als Markdown — direkt 
 3. **Risiko einstufen** — verboten → hochriskant (bei Anhang I: Abschnitt A oder B?) → transparenzpflichtig → gering (Blatt 03)
 4. **Pflichten ableiten** und terminieren (Blatt 04)
 5. **Nachweise aufbauen** — was nicht dokumentiert ist, lässt sich im Prüffall nicht belegen
+6. **Beobachten, was noch kommt** — Beobachtungsliste in Dokument 04
 
 ---
 
@@ -72,6 +74,14 @@ Prüfbericht und Änderungsnachweis liegen im Entwicklungs-Repository: **[eu-ai-
 ## Was Sie beim Weitergeben beachten sollten
 
 Die Inhalte stehen unter **CC BY 4.0** und dürfen frei verwendet, angepasst und weitergegeben werden. Bitte nennen Sie dabei den **Rechtsstand** und kennzeichnen Sie **vorgenommene Änderungen** — eine veränderte Fassung ohne Kennzeichnung bildet die hier dokumentierte Prüfung nicht mehr ab. Einzelheiten in [LICENSE](LICENSE).
+
+---
+
+## Was noch nicht feststeht
+
+Die KI-Verordnung gilt, ist aber an mehreren Stellen bewusst offen: delegierte Rechtsakte, Leitlinien und Muster stehen noch aus, und die Kommission prüft **jährlich**, ob Anhang III und die Liste der verbotenen Praktiken zu ändern sind. Parallel läuft die zweite Hälfte des Digital Omnibus — die Verordnung zu DSGVO, Data Act, ePrivacy und NIS-2 — noch im Gesetzgebungsverfahren; der Rat hatte am 29.07.2026 keine Position.
+
+**Wichtig:** Dokument 04 beschreibt **Vorhaben, keine geltende Rechtslage.** Solange ein Vorschlag nicht im Amtsblatt steht, gilt das bestehende Recht vollständig. Lassen Sie keine Pflicht aus, weil eine Erleichterung angekündigt ist.
 
 ---
 
