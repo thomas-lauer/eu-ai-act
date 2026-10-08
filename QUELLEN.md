@@ -1,6 +1,6 @@
 # Quellenregister
 
-**Stand: 29.07.2026 · Fassung 1.2.** Alle Quellen zuletzt abgerufen und geprüft am 29.07.2026.
+**Stand: 08.10.2026 · Fassung 1.3.** Die Quellen der Fassung 1.2 wurden zuletzt am 29.07.2026 geprüft; die in Abschnitt B3 genannten Quellen am 08.10.2026.
 
 Dieses Register dokumentiert, woher die Aussagen in den Dokumenten dieses Projekts stammen. Es ist Teil der Deliverables, damit jede Angabe nachprüfbar bleibt.
 
@@ -16,7 +16,7 @@ Für jede rechtliche Aussage gilt diese Reihenfolge. Eine nachrangige Quelle wir
 |---|---|---|
 | 1 | Amtlicher Rechtsakt auf EUR-Lex bzw. im Cellar-Repository | **maßgeblich** für jeden Wortlaut, jede Frist und jede Rechtsfolge |
 | 2 | Berichtigungen (Corrigenda) und konsolidierte Fassungen | geprüft; ein Corrigendum zu Art. 26 Abs. 8 wurde nicht verifiziert (siehe Abschnitt E) |
-| 3 | Leitlinien, Muster und FAQ der Europäischen Kommission | zum Zeitpunkt der Erstellung überwiegend noch nicht veröffentlicht (siehe Abschnitt E) |
+| 3 | Leitlinien, Muster und FAQ der Europäischen Kommission | Leitlinien zu Art. 50 (20.07.2026), Verhaltenskodex zur Transparenz (10.06.2026) und Fragen und Antworten zur KI-Kompetenz liegen vor und sind in Fassung 1.3 eingearbeitet; die Hochrisiko-Leitlinien nur als Entwurf (siehe Abschnitte B3 und E) |
 | 4 | Rechtsprechung und Behördenhinweise | zum Rechtsstand nicht einschlägig |
 | 5 | Fachliteratur und Kanzleibeiträge | **nur zur Einordnung und Gegenprobe**, nie als Beleg für einen Rechtssatz |
 
@@ -69,6 +69,26 @@ Diese Quellen tragen ausschließlich das Dokument „Geplante Änderungen — Di
 | Lage nach der Übergabe, offene Punkte | Privacy Next, 08.07.2026 (wirtschaftsnah) · EDRi, 16.07.2026 (grundrechtsorientiert) | 29.07.2026 | Sekundärquellen mit gegenläufiger Ausrichtung — nur verwendet, wo sich die Tatsachenangaben decken |
 
 > **Bewusst nicht übernommen:** Die namentliche Zusammensetzung der Sperrminorität im Rat. Sie wird in Sekundärquellen benannt, ist aber nicht amtlich dokumentiert.
+
+---
+
+## B3. Quellen zum Stand 08.10.2026 (Fassung 1.3): Leitlinien, Kodex, Normen, nationales Recht
+
+Diese Quellen tragen die in Fassung 1.3 ergänzten Abschnitte: Beschreibung Ziffern 5.3, 5.5 und 9.4, Checklisten D.3.9 bis D.3.12 und D.4.12, Ausblick Ziffern 2.2, 2.4 und 3.4, `sources/rechtsstand.md` Ziffer 6.
+
+| Gegenstand | Quelle | Zuletzt geprüft | Status |
+|---|---|---|---|
+| KI-MIG: Fundstelle, Aufbau, §§ 2, 4, 5, 6, 8, 13, 15, 17, 19 | Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz vom 22.07.2026, BGBl. 2026 I Nr. 223 · https://www.gesetze-im-internet.de/ki-mig/ | 08.10.2026 | bestätigt gegen den Gesetzestext (dokumentarisch noch nicht abschließend bearbeitet) |
+| Übernahme der Aufsicht durch die Bundesnetzagentur, Beschwerdestelle, Reallabor | Bundesnetzagentur, Pressemitteilung vom 29.07.2026 · https://www.bundesnetzagentur.de/1112336 ; Beschwerdeformular · https://www.bundesnetzagentur.de/_tools/_forms/05_Digitalisierung/904_KI/form_03_beschwerde/node.html | 08.10.2026 | bestätigt |
+| Zeitplan der KI-VO und Übersicht der Kommissionsleitlinien | Bundesnetzagentur, „Ziele, Zielgruppen und Zeitplan" · https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/1_Ziel/artikel_ziel.html | 08.10.2026 | bestätigt — nennt 20.07.2026 für die Art.-50-Leitlinien und 02.08.2027 für das Reallabor |
+| Verhaltenskodex zur Transparenz KI-generierter Inhalte, Angemessenheit, Unterzeichner | Europäische Kommission · https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content | 08.10.2026 | bestätigt — rund 190 Unterzeichner Ende Juli 2026; Zahl laut Kommissionsseite |
+| Leitlinien zu Art. 50 vom 20.07.2026 | Europäische Kommission · https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content ; Einordnung Reed Smith (Kanzleibeitrag) | 08.10.2026 | Datum bestätigt gegen Bundesnetzagentur; Kernaussagen aus Kanzleibeiträgen — nur zur Einordnung |
+| Fragen und Antworten zur KI-Kompetenz | Europäische Kommission · https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers | 08.10.2026 | bestätigt |
+| Entwurf der Hochrisiko-Leitlinien, Konsultationsfrist | Europäische Kommission · https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems | 08.10.2026 | bestätigt — Entwurf 19.05.2026, Konsultation bis 23.07.2026 |
+| Entwurf der Leitlinien zu schwerwiegenden Vorfällen | Europäische Kommission · https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks | 08.10.2026 | bestätigt — Konsultation 26.09. bis 07.11.2025 |
+| Konsolidierter Wortlaut von Art. 4, 5, 57, 113 KI-VO n. F. | https://ai-act-law.eu/de/ (Omnibus eingearbeitet) | 08.10.2026 | Gegenprobe zum amtlichen Text der VO (EU) 2026/1744 |
+| Normungsstand JTC 21, EN 18286:2026 | Intertek, Blogbeitrag vom 01.10.2026; CEN-CENELEC-Tracker (Sekundärquellen) | 08.10.2026 | Sekundärquellen — nicht gegen den CEN-Katalog oder EUR-Lex geprüft |
+| Verfahrensstand Digital-Omnibus-Verordnung (Daten) | Praxikon, Lagebericht vom 15.09.2026 · https://www.praxikon.com/en/avg/digital-omnibus | 08.10.2026 | Sekundärquelle — Verfahrensregister nicht direkt abgerufen |
 
 ---
 
@@ -133,8 +153,8 @@ Diese Quellen tragen ausschließlich das Dokument „Geplante Änderungen — Di
 
 Die folgenden Punkte konnten im Rahmen dieser Arbeit **nicht** abschließend verifiziert werden. Sie sind nicht nur hier, sondern **auch unmittelbar an der jeweiligen Aussage** in Beschreibung, Checklisten und Arbeitsmappe als offen gekennzeichnet:
 
-1. Deutsche Durchführungsgesetzgebung: Benennung der Marktüberwachungsbehörden, nationales Sanktionsrecht nach Art. 99 Abs. 1.
-2. Veröffentlichungsstand der Kommissionsleitlinien nach Art. 6 Abs. 5 (Einstufung Hochrisiko).
+1. Deutsche Durchführungsgesetzgebung — **erledigt in Fassung 1.3:** KI-MIG vom 22.07.2026, in Kraft seit 29.07.2026 (Abschnitt B3).
+2. Endfassung der Kommissionsleitlinien nach Art. 6 Abs. 5 (Einstufung Hochrisiko): Vorliegend ist nur der Entwurf vom 19.05.2026 (Abschnitt B3).
 3. Veröffentlichungsstand des Musters für die Trainingsdaten-Zusammenfassung (Art. 53 Abs. 1 lit. d) und des Muster-Fragebogens für die Grundrechte-Folgenabschätzung (Art. 27 Abs. 5).
 4. Ob zur Sprachfassungsdivergenz in Art. 26 Abs. 8 (DE: nur Unionsstellen; EN: zusätzlich "public authorities") ein Corrigendum ergangen ist.
 5. Stand der delegierten Rechtsakte nach Art. 2 Abs. 13 KI-VO n. F. (Frist: 02.08.2027).

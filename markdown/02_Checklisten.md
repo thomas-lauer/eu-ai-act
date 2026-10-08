@@ -2,8 +2,8 @@
 
 ## Für Betreiber (Deployer) und Anbieter (Provider)
 
-**Rechtsstand: 29.07.2026 · Fassung 1.2**
-Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
+**Rechtsstand: 08.10.2026 · Fassung 1.3**
+Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026); dazu das deutsche KI-MIG (in Kraft seit 29.07.2026), der Verhaltenskodex zur Transparenz KI-generierter Inhalte (10.06.2026) und die Leitlinien der Kommission zu Art. 50 (20.07.2026).
 
 ---
 
@@ -84,7 +84,7 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 
 > **Sanktionsrahmen:** Bis 35.000.000 EUR oder 7 % des weltweiten Jahresumsatzes, je nachdem, was höher ist. Für KMU gilt der niedrigere Betrag; für kleine Midcap-Unternehmen gilt die Deckelung hier **nicht**. *(Art. 99 Abs. 3, 6 und 6a n. F.)*
 
-## D.3 Transparenzpflichten (Art. 50) — ab 02.08.2026
+## D.3 Transparenzpflichten (Art. 50) — seit 02.08.2026
 
 | Nr. | Pflicht | Rolle | Fundstelle | Frist | Status | Nachweis | Verantwortlich |
 |---|---|---|---|---|---|---|---|
@@ -96,6 +96,12 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 | D.3.6 | Bei künstlerischen/satirischen/fiktionalen Werken: geeignete Offenlegung, die den Werkgenuss nicht beeinträchtigt | Betreiber | Art. 50 Abs. 4 UAbs. 1 S. 3 | 02.08.2026 | | Kennzeichnungsrichtlinie | |
 | D.3.7 | Bei **KI-Texten zu Angelegenheiten von öffentlichem Interesse**: offenlegen — außer bei menschlicher Überprüfung mit redaktioneller Verantwortung | Betreiber | Art. 50 Abs. 4 UAbs. 2 | 02.08.2026 | | Redaktionsrichtlinie, Verantwortlichkeitsregelung | |
 | D.3.8 | Informationen **spätestens bei der ersten Interaktion**, klar, eindeutig und barrierefrei bereitstellen | beide | Art. 50 Abs. 5 | 02.08.2026 | | Barrierefreiheitsprüfung | |
+| D.3.9 | **Verhaltenskodex zur Transparenz** (10.06.2026): entscheiden und dokumentieren, ob wir unterzeichnen oder mit welchen gleichwertigen Maßnahmen wir Art. 50 Abs. 2, 4 und 5 nachweisen | beide | Art. 50 Abs. 7 n. F.; Kodex, Abschnitte 1 und 2 | laufend | | Beitrittserklärung oder Maßnahmendokumentation | |
+| D.3.10 | **Freigabeprozess für veröffentlichte KI-Texte:** inhaltliche Prüfung durch eine fachlich kompetente Person und benannte redaktionelle Verantwortung dokumentieren — eine Rechtschreibkorrektur genügt nach den Leitlinien nicht | Betreiber | Art. 50 Abs. 4 UAbs. 2; Leitlinien der Kommission vom 20.07.2026 | gilt seit 02.08.2026 | | Freigaberichtlinie, Prüfprotokoll | |
+| D.3.11 | **KI-Bilder und -Videos im Marketing** auf Deepfake-Eigenschaft prüfen (realistische Personen, geschönte Produkte) und kennzeichnen, etwa mit dem EU-Icon-Set des Kodex | Betreiber | Art. 50 Abs. 4 UAbs. 1; Leitlinien vom 20.07.2026 | gilt seit 02.08.2026 | | Kennzeichnungsrichtlinie, Beispiele | |
+| D.3.12 | **Nur für Anbieter, die den Kodex unterzeichnen:** interoperable Erkennungslösung für die eigene Markierung bereitstellen | Anbieter | Kodex, Abschnitt 1 | **02.02.2027** | | Technische Dokumentation | |
+
+> **Leitlinien und Kodex:** Die Kommission hat am 10.06.2026 den Verhaltenskodex und am 20.07.2026 die Leitlinien zu Art. 50 veröffentlicht. Beide sind keine Rechtsquellen. Inhalte, die vor dem 02.08.2026 erzeugt wurden, müssen nicht nachträglich gekennzeichnet werden; für Texte zählt das Veröffentlichungsdatum. Einzelheiten in Ziffer 9.4 der Beschreibung.
 
 > **Wichtig zur Übergangsfrist:** Sie gilt **nur für Art. 50 Abs. 2** und **nur für Systeme, die vor dem 02.08.2026 in Verkehr gebracht wurden**. Die Absätze 1, 3 und 4 gelten ab dem 02.08.2026 ohne Schonfrist. *(Art. 111 Abs. 4 KI-VO n. F.)*
 
@@ -115,9 +121,10 @@ Diese Pflichten gelten unabhängig von Rolle und Risikoklasse. Sie sind der Ausg
 | D.4.8 | **Mitbestimmung** prüfen (Betriebsrat, Beteiligungsrechte nach nationalem Recht) | Art. 2 Abs. 11, Art. 26 Abs. 7 S. 2 KI-VO i. V. m. nationalem Betriebsverfassungsrecht | vor Einführung | | Beteiligungsnachweis | |
 | D.4.9 | **Turnus für Rechtsstands-Review** festlegen (die Rechtslage ist in Bewegung). Empfohlen: quartalsweise. Beobachtungsliste im Begleitdokument "Geplante Änderungen — Digitaler Omnibus" | — | laufend | | Review-Protokoll | |
 | D.4.9a | **KI-Inventar jährlich gegen den geltenden Anhang III und die Verbotsliste abgleichen** — die Kommission prüft beide Listen jedes Jahr auf Änderungsbedarf; ein bisher unkritisches System kann dadurch hochriskant werden | Art. 112 Abs. 1 KI-VO | jährlich | | Abgleichprotokoll mit Datum | |
-| D.4.9b | **Ausstehende Rechtsakte verfolgen:** delegierte Rechtsakte nach Art. 2 Abs. 13 (bis 02.08.2027), Anhang III der Maschinen-VO (gilt ab 02.08.2028), Leitlinien nach Art. 6 Abs. 5, Art. 96 Abs. 1 lit. g (bis 01.08.2027) und Art. 72 Abs. 3 (bis 02.09.2027) | Art. 2 Abs. 13, Art. 6 Abs. 5, Art. 72 Abs. 3, Art. 96 Abs. 1 lit. g KI-VO n. F. | laufend | | Beobachtungsliste | |
-| D.4.10 | **Beschwerdeeingänge einplanen:** Jede Person kann bei der Marktüberwachungsbehörde Beschwerde einlegen — internen Prozess für behördliche Rückfragen vorsehen | Art. 85 | gilt ab 02.08.2026 | | Eskalationsprozess | |
+| D.4.9b | **Ausstehende Rechtsakte verfolgen:** delegierte Rechtsakte nach Art. 2 Abs. 13 (bis 02.08.2027), Anhang III der Maschinen-VO (gilt ab 02.08.2028), Leitlinien nach Art. 6 Abs. 5 (Entwurf vom 19.05.2026, Endfassung offen), Art. 73 Abs. 7 (Entwurf vom 26.09.2025, Endfassung offen), Art. 96 Abs. 1 lit. g (bis 01.08.2027) und Art. 72 Abs. 3 (bis 02.09.2027); harmonisierte Normen (EN 18286:2026 veröffentlicht, am 08.10.2026 noch nicht im Amtsblatt zitiert) | Art. 2 Abs. 13, Art. 6 Abs. 5, Art. 40, Art. 72 Abs. 3, Art. 73 Abs. 7, Art. 96 Abs. 1 lit. g KI-VO n. F. | laufend | | Beobachtungsliste | |
+| D.4.10 | **Beschwerdeeingänge einplanen:** Jede Person kann bei der Marktüberwachungsbehörde Beschwerde einlegen — in Deutschland bei der Bundesnetzagentur über das Online-Formular des KI-Service-Desks; internen Prozess für behördliche Rückfragen vorsehen | Art. 85 KI-VO; § 8 KI-MIG | gilt seit 02.08.2026 | | Eskalationsprozess | |
 | D.4.11 | Prüfen, ob wir zusätzlich **Einführer** (Art. 23) oder **Händler** (Art. 24) sind — diese Rollen haben eigene Pflichten, die in diesen Checklisten nicht abgebildet sind | Art. 3 Nrn. 6 und 7, Art. 23, Art. 24 | HR-Frist | | Rollenprüfung | |
+| D.4.12 | **Zuständige Behörde kennen:** Bundesnetzagentur als Marktüberwachungsbehörde, Anlaufstelle und Beschwerdestelle nach dem KI-MIG (in Kraft seit 29.07.2026); BaFin für beaufsichtigte Finanztätigkeiten; Landesrecht für Landesbehörden und Mediendienste. KI-Service-Desk der Bundesnetzagentur als erste Anlaufstelle nutzen | §§ 2, 6, 8 KI-MIG | gilt seit 29.07.2026 | | Zuständigkeitsvermerk im KI-Register | |
 
 ---
 

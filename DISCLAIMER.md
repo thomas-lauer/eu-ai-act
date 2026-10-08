@@ -18,21 +18,23 @@ Wo die Dokumente dennoch einheitlich mit dem jeweiligen Hochrisiko-Termin arbeit
 
 ## Rechtsstand
 
-**29.07.2026 · Fassung 1.2**
+**08.10.2026 · Fassung 1.3**
 
 Berücksichtigt sind:
 
 - Verordnung (EU) 2024/1689 vom 13. Juni 2024 (KI-Verordnung), ABl. L, 2024/1689, 12.7.2024
 - Verordnung (EU) 2026/1744 vom 8. Juli 2026 (Digital-Omnibus-Verordnung zur KI), ABl. 24.7.2026, in Kraft seit 27.7.2026
+- Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz (KI-MIG) vom 22. Juli 2026, BGBl. 2026 I Nr. 223, in Kraft seit 29.7.2026
+- Verhaltenskodex zur Transparenz KI-generierter Inhalte (Kommission, 10.6.2026) und Leitlinien der Kommission zu Art. 50 (20.7.2026) — Auslegungshilfen, keine Rechtsquellen
 
-Die Änderungsverordnung wurde am 24.07.2026 im Amtsblatt veröffentlicht und trat am 27.07.2026 in Kraft — zwei Tage vor dem Stichtag dieser Zusammenstellung. Weitere Änderungen sind möglich und wahrscheinlich. Prüfen Sie vor jeder Verwendung, ob ein neuerer Rechtsstand vorliegt.
+Der Verordnungstext ist seit dem 27.07.2026 unverändert. Fassung 1.3 ergänzt die seither erschienenen Konkretisierungen und das deutsche Durchführungsgesetz. Weitere Änderungen sind möglich und wahrscheinlich. Prüfen Sie vor jeder Verwendung, ob ein neuerer Rechtsstand vorliegt.
 
 ## Ausdrücklich nicht geprüft
 
 Die folgenden Punkte konnten im Rahmen der Erstellung nicht abschließend verifiziert werden und sind in den Dokumenten als offen gekennzeichnet:
 
-1. **Deutsche Durchführungsgesetzgebung** — Benennung der Marktüberwachungsbehörden und nationales Sanktionsrecht nach Art. 99 Abs. 1 KI-VO.
-2. **Veröffentlichungsstand der Kommissionsdokumente** — Leitlinien nach Art. 6 Abs. 5, Vorlage für die Trainingsdaten-Zusammenfassung nach Art. 53 Abs. 1 lit. d, Muster-Fragebogen nach Art. 27 Abs. 5, vereinfachtes Dokumentationsformular nach Art. 11 Abs. 1 UAbs. 2, Leitlinien nach Art. 63 Abs. 1.
+1. **Deutsche Durchführungsgesetzgebung** — in Fassung 1.3 erledigt (KI-MIG). Nicht geprüft bleibt, wann die Bundesnetzagentur das KI-Reallabor nach § 13 KI-MIG öffnet.
+2. **Veröffentlichungsstand der Kommissionsdokumente** — Die Leitlinien nach Art. 6 Abs. 5 liegen nur als Entwurf vom 19.05.2026 vor. Weiter nicht geprüft: Vorlage für die Trainingsdaten-Zusammenfassung nach Art. 53 Abs. 1 lit. d, Muster-Fragebogen nach Art. 27 Abs. 5, vereinfachtes Dokumentationsformular nach Art. 11 Abs. 1 UAbs. 2, Leitlinien nach Art. 63 Abs. 1. Der Normungsstand (EN 18286:2026) stammt aus Sekundärquellen.
 3. **Sprachfassungsdivergenz in Art. 26 Abs. 8** — Der amtliche deutsche Text nennt nur Organe, Einrichtungen und sonstige Stellen der Union; der englische Text nennt zusätzlich "public authorities". Ob ein Corrigendum ergangen ist, wurde nicht geprüft. Öffentliche Stellen in Deutschland sollten vorsorglich von der weiteren Lesart ausgehen.
 4. **Delegierte Rechtsakte nach Art. 2 Abs. 13 KI-VO n. F.** (Frist: 2. August 2027) — sie können den Pflichtenumfang für Anhang-I-Systeme noch verändern.
 5. **Verfahrensgang der Änderungsverordnung** — Belegbar aus dem Amtsblatt sind Unterzeichnung, Veröffentlichung und Inkrafttreten. Die Daten zu Trilog, AStV und Plenarabstimmung stammen aus Sekundärquellen.

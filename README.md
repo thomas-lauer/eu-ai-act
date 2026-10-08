@@ -2,7 +2,7 @@
 
 Ein Dokumentenpaket zur EU-KI-Verordnung für Unternehmen: eine verständlich und praxisnah geschriebene Beschreibung, Umsetzungs-Checklisten für Anbieter und Betreiber, eine Excel-Arbeitshilfe und ein Ausblick auf die noch ausstehenden Änderungen.
 
-**Rechtsstand: 29.07.2026 · Fassung 1.2** — Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
+**Rechtsstand: 08.10.2026 · Fassung 1.3** — Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026); dazu das deutsche KI-MIG (in Kraft seit 29.07.2026), der Verhaltenskodex zur Transparenz KI-generierter Inhalte (10.06.2026) und die Leitlinien der Kommission zu Art. 50 (20.07.2026).
 
 > **Keine Rechtsberatung.** Siehe [DISCLAIMER.md](DISCLAIMER.md). **Lizenz:** CC BY 4.0 — siehe [LICENSE](LICENSE).
 
@@ -45,7 +45,20 @@ Der Digital Omnibus wurde am 24.07.2026 im Amtsblatt veröffentlicht und trat am
 - **Neuer Art. 4a** für die Bias-Erkennung, anwendbar seit 27.07.2026; Art. 10 Abs. 5 wurde gestrichen
 - **Erweiterte Durchsetzungsbefugnisse** des KI-Büros samt Zwangsgeldern (Art. 75a–75d)
 
-**Was sich nicht geändert hat:** Die Verbote gelten weiter, die Transparenzpflichten starten planmäßig am 02.08.2026, die GPAI-Pflichten gelten seit August 2025, und die Sanktionsvorschriften wurden nicht mitverschoben.
+**Was sich nicht geändert hat:** Die Verbote gelten weiter, die Transparenzpflichten gelten seit dem 02.08.2026, die GPAI-Pflichten gelten seit August 2025, und die Sanktionsvorschriften wurden nicht mitverschoben.
+
+---
+
+## Was Fassung 1.3 ergänzt (08.10.2026)
+
+Der Verordnungstext ist unverändert. Eingearbeitet sind die Konkretisierungen seit dem Sommer 2026:
+
+- **Verhaltenskodex zur Transparenz KI-generierter Inhalte** (10.06.2026) und **Leitlinien der Kommission zu Art. 50** (20.07.2026): Hinweis ab der ersten Interaktion, redaktionelle Kontrolle heißt inhaltliche Prüfung, keine Rückwirkung für Inhalte vor dem 02.08.2026, geschönte Werbebilder sind Deepfakes, EU-Icon-Set (Beschreibung Ziffer 9.4, Checklisten D.3.9 bis D.3.12)
+- **KI-MIG**, das deutsche Durchführungsgesetz, in Kraft seit 29.07.2026: Bundesnetzagentur als Marktüberwachungs-, Anlauf- und Beschwerdestelle, BaFin für den Finanzsektor, eigene Bußgelder bis 50.000 EUR (Beschreibung Ziffer 5.5, Checklisten D.4.12)
+- **Stand der Leitlinien und Normen:** Hochrisiko-Leitlinien nur als Entwurf vom 19.05.2026, EN 18286:2026 veröffentlicht, aber nicht im Amtsblatt zitiert (Dokument 04, Ziffer 2.2)
+- **Digital Omnibus für Daten:** am 08.10.2026 weiter ohne Ratsmandat und ohne Parlamentsposition (Dokument 04, Ziffer 3.4)
+
+Quellen und Prüfdaten in [QUELLEN.md](QUELLEN.md), Abschnitt B3.
 
 ---
 
@@ -79,7 +92,7 @@ Die Inhalte stehen unter **CC BY 4.0** und dürfen frei verwendet, angepasst und
 
 ## Was noch nicht feststeht
 
-Die KI-Verordnung gilt, ist aber an mehreren Stellen bewusst offen: delegierte Rechtsakte, Leitlinien und Muster stehen noch aus, und die Kommission prüft **jährlich**, ob Anhang III und die Liste der verbotenen Praktiken zu ändern sind. Parallel läuft die zweite Hälfte des Digital Omnibus — die Verordnung zu DSGVO, Data Act, ePrivacy und NIS-2 — noch im Gesetzgebungsverfahren; der Rat hatte am 29.07.2026 keine Position.
+Die KI-Verordnung gilt, ist aber an mehreren Stellen bewusst offen: delegierte Rechtsakte, Leitlinien und Muster stehen noch aus, und die Kommission prüft **jährlich**, ob Anhang III und die Liste der verbotenen Praktiken zu ändern sind. Parallel läuft die zweite Hälfte des Digital Omnibus — die Verordnung zu DSGVO, Data Act, ePrivacy und NIS-2 — noch im Gesetzgebungsverfahren; am 08.10.2026 hatte der Rat kein Mandat und das Parlament keine Position.
 
 **Wichtig:** Dokument 04 beschreibt **Vorhaben, keine geltende Rechtslage.** Solange ein Vorschlag nicht im Amtsblatt steht, gilt das bestehende Recht vollständig. Lassen Sie keine Pflicht aus, weil eine Erleichterung angekündigt ist.
 

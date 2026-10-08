@@ -2,8 +2,8 @@
 
 ## Die KI-Verordnung der Europäischen Union — verständlich und praxisnah erklärt
 
-**Rechtsstand: 29.07.2026 · Fassung 1.2**
-Berücksichtigt werden die Verordnung (EU) 2024/1689 (KI-Verordnung) in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026).
+**Rechtsstand: 08.10.2026 · Fassung 1.3**
+Berücksichtigt werden die Verordnung (EU) 2024/1689 (KI-Verordnung) in der Fassung der Verordnung (EU) 2026/1744 (Digital-Omnibus-Verordnung zur KI, in Kraft seit 27.07.2026), das deutsche KI-MIG vom 22.07.2026 (in Kraft seit 29.07.2026), der Verhaltenskodex zur Transparenz KI-generierter Inhalte vom 10.06.2026 und die Leitlinien der Kommission zu Art. 50 vom 20.07.2026.
 
 ---
 
@@ -25,7 +25,7 @@ Die Abkürzung **"n. F."** bedeutet "neue Fassung" und markiert Vorschriften, di
 
 Dieses Dokument ist eine allgemeine Information. Es ersetzt keine Rechtsberatung im Einzelfall. Ob und wie die KI-Verordnung auf ein bestimmtes System in einem bestimmten Unternehmen anzuwenden ist, hängt von Umständen ab, die hier nicht bekannt sind. Für rechtsverbindliche Auskünfte wenden Sie sich bitte an eine Rechtsanwältin oder einen Rechtsanwalt.
 
-Der Rechtsstand ist der 29.07.2026. Die letzte Änderung der KI-Verordnung wurde am 24.07.2026 im Amtsblatt veröffentlicht und trat am 27.07.2026 in Kraft — zwei Tage vor diesem Rechtsstand. Weitere Änderungen sind möglich. Prüfen Sie vor einer Anwendung, ob es einen neueren Stand gibt.
+Der Rechtsstand ist der 08.10.2026. Die letzte Änderung der KI-Verordnung wurde am 24.07.2026 im Amtsblatt veröffentlicht und trat am 27.07.2026 in Kraft. Seither ist der Verordnungstext unverändert; neu hinzugekommen und in dieser Fassung eingearbeitet sind der Verhaltenskodex zur Transparenz KI-generierter Inhalte, die Leitlinien der Kommission zu Art. 50 und das deutsche Durchführungsgesetz KI-MIG. Weitere Änderungen sind möglich. Prüfen Sie vor einer Anwendung, ob es einen neueren Stand gibt.
 
 Wo dieses Dokument eine Frist oder eine Rechtsfolge angibt, die auf einer Auslegung beruht, ist das ausdrücklich gekennzeichnet. Solche Angaben sind **Planungsannahmen**, keine gesicherte Rechtslage.
 
@@ -289,6 +289,10 @@ Der Maßstab richtet sich nach technischen Kenntnissen, Erfahrung, Aus- und Fort
 
 Die Pflicht verlagert sich damit vom Ergebnis auf den Prozess. Praktisch heißt das: Schulungsangebote, Leitlinien und interne Regeln nachweisbar bereitstellen — nicht: Kompetenztests bestehen lassen.
 
+**Was die Kommission dazu sagt (Stand 08.10.2026):** In ihren Fragen und Antworten zur KI-Kompetenz stellt die Kommission klar, dass weder ein Zertifikat noch eine bestimmte Funktion wie ein KI-Beauftragter verlangt wird, dass aber das bloße Verteilen einer Nutzungsanweisung in der Regel nicht genügt. Die Maßnahmen sollen nach Rolle, Risiko und Nutzungskontext differenziert und intern nachweisbar sein. Durchgesetzt wird Art. 4 seit August 2026, weil erst seit dem allgemeinen Geltungsbeginn die Aufsichts- und Sanktionsregeln anwendbar sind.
+
+> **Fundstelle:** Europäische Kommission, „AI Literacy – Questions & Answers", Stand Juli 2026 — Auslegungshilfe der Kommission, keine Rechtsquelle; Art. 113 Abs. 1 KI-VO.
+
 Der Kommissionsvorschlag wollte die Unternehmenspflicht ganz streichen und nur noch Kommission und Mitgliedstaaten adressieren. Das hat der Gesetzgeber **nicht** übernommen. Art. 4 bleibt eine Pflicht von Anbietern und Betreibern.
 
 > **Fundstelle:** Art. 4 Abs. 1 KI-VO n. F. (geändert durch VO (EU) 2026/1744, Art. 1 Nr. 5). Unterstützung durch Kommission und Mitgliedstaaten: Art. 4 Abs. 2 KI-VO n. F. Empfehlungen des KI-Gremiums: Art. 4 Abs. 3 KI-VO n. F.
@@ -323,6 +327,18 @@ Es gilt jeweils der **höhere** Betrag.
 **Für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck** gilt ein eigener Rahmen: bis zu 15.000.000 EUR oder 3 % des weltweiten Jahresumsatzes, verhängt durch die Europäische Kommission.
 
 > **Fundstelle:** Art. 101 KI-VO. Geltungsbeginn: 2. August 2026 (Art. 113 Abs. 3 lit. b KI-VO nimmt Art. 101 aus).
+
+## 5.5 Wer in Deutschland zuständig ist: das KI-MIG
+
+Die KI-Verordnung überlässt den Mitgliedstaaten, welche Behörden sie überwachen. Deutschland hat das mit dem **Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz (KI-MIG)** geregelt. Der Bundestag hat es am 11.06.2026 beschlossen, der Bundesrat am 10.07.2026 gebilligt; es ist am 29.07.2026 in Kraft getreten. Neue inhaltliche Pflichten schafft es nicht. Es regelt Zuständigkeiten, Verfahren und Innovationsförderung.
+
+**Die Bundesnetzagentur** ist die Marktüberwachungsbehörde, soweit das Gesetz nichts anderes bestimmt. Sie ist zugleich zentrale Anlaufstelle und zentrale Beschwerdestelle; Beschwerden können über ein Online-Formular im KI-Service-Desk der Behörde eingereicht werden. Bei ihr sind ein Koordinierungs- und Kompetenzzentrum und eine unabhängige KI-Marktüberwachungskammer für Hochrisiko-Systeme in Strafverfolgung, Grenzkontrolle, Justiz und Demokratie angesiedelt. Sie betreibt außerdem mindestens ein KI-Reallabor; einsatzbereit sein muss es nach Art. 57 KI-VO bis zum 02.08.2027.
+
+**Fachbehörden bleiben zuständig:** die BaFin für KI im Zusammenhang mit beaufsichtigten Finanztätigkeiten; für öffentliche Stellen der Länder und für Mediendienste gilt Landesrecht. Datenschutzbehörden und Bundeskartellamt werden einbezogen.
+
+**Eigene Bußgelder** sieht das KI-MIG bis 50.000 EUR vor, etwa wenn Betreiber bestimmter Hochrisiko-Systeme eine Erläuterung nach Art. 86 KI-VO verweigern oder Informations- und Dokumentationspflichten nach Art. 21, 27 und 45 KI-VO verletzen. Gegen öffentliche Stellen werden keine Bußgelder verhängt. Die Bußgelder der KI-Verordnung selbst (Ziffer 5.4) bleiben davon unberührt.
+
+> **Fundstelle:** KI-MIG vom 22.07.2026, BGBl. 2026 I Nr. 223: § 2 (zuständige Marktüberwachungsbehörden), § 4 (KI-Marktüberwachungskammer), § 5 (Koordinierungs- und Kompetenzzentrum), § 6 (zentrale Anlaufstelle), § 8 (zentrale Beschwerdestelle), § 13 (KI-Reallabore), § 15 (Bußgeldtatbestände), § 17 Abs. 2 (keine Geldbußen gegen öffentliche Stellen). Das Büro für Künstliche Intelligenz ist daneben nur in den Fällen des Art. 75 KI-VO n. F. zuständig.
 
 ---
 
@@ -473,14 +489,15 @@ Systeme aus dem Bereich kritische Infrastruktur (Anhang III Nr. 2) sind ausgenom
 | **02.02.2025** | Begriffsbestimmungen, **KI-Kompetenz (Art. 4)**, **verbotene Praktiken (Art. 5)**. |
 | **02.08.2025** | Pflichten für **KI-Modelle mit allgemeinem Verwendungszweck** (Art. 51–56), Governance-Strukturen, **Sanktionsvorschriften** (Art. 99, 100). |
 | **27.07.2026** | Die Digital-Omnibus-Verordnung (EU) 2026/1744 tritt in Kraft. Art. 102–110 KI-VO gelten ab diesem Tag. Ebenfalls ab diesem Tag gilt die neue Rechtsgrundlage des **Art. 4a** (Bias-Erkennung). |
+| **29.07.2026** | Das deutsche **KI-MIG** tritt in Kraft; die Bundesnetzagentur ist Marktüberwachungsbehörde, Anlaufstelle und Beschwerdestelle (Ziffer 5.5). |
+| **02.08.2026** | **Allgemeiner Geltungsbeginn** der Verordnung. Insbesondere: **Transparenzpflichten nach Art. 50**; Bußgelder gegen GPAI-Anbieter nach Art. 101; Marktüberwachungsbehörden und Büro für Künstliche Intelligenz üben seitdem ihre Befugnisse aus. |
 
-> **Fundstelle:** Art. 113 Abs. 3 lit. a und b KI-VO; lit. d neu eingefügt durch VO (EU) 2026/1744, Art. 1 Nr. 40. Zu Art. 4a: ErwG 9 der VO (EU) 2026/1744 i. V. m. deren Art. 4.
+> **Fundstelle:** Art. 113 Abs. 1 und Abs. 3 lit. a und b KI-VO; lit. d neu eingefügt durch VO (EU) 2026/1744, Art. 1 Nr. 40. Zu Art. 4a: ErwG 9 der VO (EU) 2026/1744 i. V. m. deren Art. 4. KI-MIG vom 22.07.2026, Art. 5 (Inkrafttreten).
 
 ## 7.2 Was als Nächstes kommt
 
 | Ab | Was |
 |---|---|
-| **02.08.2026** | **Allgemeiner Geltungsbeginn** der Verordnung. Insbesondere: **Transparenzpflichten nach Art. 50**; Leitlinien der Kommission nach Art. 6 Abs. 5; Bußgelder gegen GPAI-Anbieter nach Art. 101. |
 | **02.12.2026** | **Neue Verbote** für nicht-einvernehmliche intime Darstellungen und CSAM (Art. 5 Abs. 1 lit. ba und bb). |
 | **02.12.2026** | Ende der Übergangsfrist für Anbieter **generativer Bestandssysteme**: Systeme, die vor dem 02.08.2026 in Verkehr gebracht wurden, müssen die **maschinenlesbare Kennzeichnung nach Art. 50 Abs. 2** erfüllen. |
 | **02.08.2027** | KI-Reallabore müssen in allen Mitgliedstaaten einsatzbereit sein. GPAI-Modelle, die vor dem 02.08.2025 in Verkehr gebracht wurden, müssen konform sein. |
@@ -499,7 +516,7 @@ Der Digital Omnibus hat die Hochrisiko-Pflichten verschoben: Systeme nach Anhang
 
 - Die **Verbote** gelten weiter — und zwei neue kommen im Dezember 2026 hinzu.
 - Die **KI-Kompetenz** bleibt Pflicht.
-- Die **Transparenzpflichten** starten planmäßig am 2. August 2026.
+- Die **Transparenzpflichten** gelten seit dem 2. August 2026.
 - Die **GPAI-Pflichten** gelten seit August 2025 unverändert.
 - Die **Sanktionsvorschriften** gelten seit August 2025; ihr Anwendungsbeginn wurde nicht mitverschoben.
 
@@ -598,7 +615,7 @@ Neu hinzugekommen ist ein vollständiges Durchsetzungsregime: Auskunftsverlangen
 
 # 9. Transparenzpflichten: Wer muss was kennzeichnen?
 
-Diese Pflichten gelten ab dem **2. August 2026** — unabhängig von der Risikoklasse. Auch ein völlig harmloses generatives System fällt darunter.
+Diese Pflichten gelten seit dem **2. August 2026** — unabhängig von der Risikoklasse. Auch ein völlig harmloses generatives System fällt darunter. Seit dem Sommer 2026 konkretisieren ein Verhaltenskodex und Leitlinien der Kommission, wie sie zu erfüllen sind (Ziffer 9.4).
 
 ## 9.1 Pflichten der Anbieter
 
@@ -651,6 +668,23 @@ Die Informationen müssen **spätestens zum Zeitpunkt der ersten Interaktion** k
 Verstöße gegen Art. 50 können mit bis zu 15 Millionen Euro oder 3 % des weltweiten Jahresumsatzes geahndet werden.
 
 > **Fundstelle:** Art. 99 Abs. 4 lit. g KI-VO.
+
+## 9.4 Verhaltenskodex und Leitlinien der Kommission (Stand 08.10.2026)
+
+**Der Verhaltenskodex.** Am 10.06.2026 hat die Kommission den **Verhaltenskodex zur Transparenz KI-generierter Inhalte** veröffentlicht. Anfang Juli 2026 haben Kommission und KI-Gremium ihn als angemessenes Instrument zur Erfüllung der Pflichten aus Art. 50 Abs. 2, 4 und 5 bewertet. Der Kodex hat zwei Abschnitte: Abschnitt 1 richtet sich an Anbieter (Markierung und Erkennung synthetischer Inhalte), Abschnitt 2 an Betreiber (Kennzeichnung von Deepfakes und von KI-Texten zu Angelegenheiten von öffentlichem Interesse). Er stellt ein gemeinsames EU-Icon-Set für die Kennzeichnung bereit. Unterzeichnende Anbieter verpflichten sich, bis zum 02.02.2027 eine interoperable Lösung zur Erkennung ihrer Markierungen bereitzustellen. Ende Juli 2026 hatten rund 190 Unternehmen und Organisationen unterzeichnet.
+
+Der Kodex ist **freiwillig**. Wer ihn unterzeichnet, kann sich unionsweit auf seine Maßnahmen stützen. Wer nicht unterzeichnet, muss mit gleichwertigen Maßnahmen nachweisen, dass er Art. 50 erfüllt, und sollte mit mehr Rückfragen der Aufsicht rechnen. Eine Konformitätsvermutung begründet der Kodex nicht (Erwägungsgrund 41 der VO (EU) 2026/1744).
+
+**Die Leitlinien.** Am 20.07.2026 hat die Kommission ihre **Leitlinien zu den Transparenzpflichten nach Art. 50** veröffentlicht. Sie sind nicht verbindlich, zeigen aber, wie die Aufsicht die Pflichten lesen wird. Die wichtigsten Klarstellungen:
+
+- Der Hinweis bei Chatbots, Sprachassistenten und KI-Agenten gehört an die **erste Interaktion**. Die Ausnahme „ohnehin offensichtlich" ist eng auszulegen. Agenten müssen auch offenlegen, in wessen Auftrag sie handeln.
+- **Redaktionelle Kontrolle** im Sinne von Art. 50 Abs. 4 UAbs. 2 verlangt eine inhaltliche Prüfung mit fachlichem Urteil. Eine Rechtschreib- oder Grammatikkorrektur genügt nicht.
+- **Keine Rückwirkung:** Bild-, Audio- und Videoinhalte, die vor dem 02.08.2026 erzeugt wurden, müssen nicht nachträglich gekennzeichnet werden. Für Texte zählt das Datum der Veröffentlichung.
+- Ein Werbebild, das ein Produkt **besser zeigt als die Wirklichkeit**, ist ein Deepfake. Die Ausnahme für künstlerische oder satirische Werke ist eng; Informations- und Werbeinhalte werden regulär gekennzeichnet.
+- **Nicht markierungspflichtig** nach Art. 50 Abs. 2 sind unter anderem Quellcode, reine Maschine-zu-Maschine-Ausgaben, Ausgaben in geschlossenen Entwicklungsumgebungen und Standardbearbeitungen.
+- In **Vertriebsketten** sollen Betreiber mit verhältnismäßigen Maßnahmen, auch vertraglich, dafür sorgen, dass Kennzeichnungen beim Weiterverbreiten erhalten bleiben. Hosting-Dienste, die nur fremde Inhalte verbreiten, sind keine Betreiber.
+
+> **Fundstelle:** Art. 50 Abs. 7 KI-VO n. F. (Grundlage des Kodex); Europäische Kommission, Code of Practice on Transparency of AI-Generated Content, 10.06.2026; Commission Opinion on the assessment of the Code of Practice, Juli 2026; Europäische Kommission, Guidelines on transparency obligations for providers and deployers of certain AI systems, 20.07.2026. Leitlinien und Kodex sind keine Rechtsquellen; eine verbindliche Auslegung kann nur der Gerichtshof der Europäischen Union geben.
 
 ---
 
@@ -816,6 +850,15 @@ Die vollständige Liste aller verwendeten Quellen mit Abrufdaten, Prüfstatus un
 - Empfehlung (EU) 2025/1099 (Definition kleiner Unternehmen mit mittlerer Kapitalisierung).
 - Empfehlung 2003/361/EG (KMU-Definition).
 
+**Leitlinien, Kodizes und nationales Recht (Stand 08.10.2026, geprüft am 08.10.2026):**
+
+- Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz (KI-MIG) vom 22. Juli 2026, BGBl. 2026 I Nr. 223, in Kraft seit 29.07.2026. https://www.gesetze-im-internet.de/ki-mig/
+- Europäische Kommission, Code of Practice on Transparency of AI-Generated Content, 10.06.2026, und Commission Opinion on the assessment of the Code of Practice, Juli 2026. https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+- Europäische Kommission, Guidelines on transparency obligations for providers and deployers of certain AI systems, 20.07.2026. https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content
+- Europäische Kommission, AI Literacy – Questions & Answers. https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers
+- Europäische Kommission, Entwurf der Leitlinien zur Einstufung von Hochrisiko-KI-Systemen, 19.05.2026. https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems
+- Bundesnetzagentur, Ziele, Zielgruppen und Zeitplan der KI-Verordnung, mit Übersicht der Kommissionsleitlinien. https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/1_Ziel/artikel_ziel.html
+
 **Vom Auftraggeber benannte Quellen:**
 
 - AI Act Explorer, https://artificialintelligenceact.eu/de/ — Hinweis: Die deutschen Seiten sind nach eigenem Hinweis maschinell übersetzt; die Implementation Timeline war zum Abrufzeitpunkt auf dem Stand 01.08.2024 und bildet den Digital Omnibus nicht ab.
@@ -828,5 +871,5 @@ Die vollständige Liste aller verwendeten Quellen mit Abrufdaten, Prüfstatus un
 
 ---
 
-*Fassung 1.2 · Erstellt am 29.07.2026 · Rechtsstand: 29.07.2026*
+*Fassung 1.3 · Erstellt am 29.07.2026, aktualisiert am 08.10.2026 · Rechtsstand: 08.10.2026*
 *Dieses Dokument ersetzt keine Rechtsberatung im Einzelfall. Nutzung unter CC BY 4.0 — bei Weitergabe bitte Rechtsstand und vorgenommene Änderungen kennzeichnen.*
